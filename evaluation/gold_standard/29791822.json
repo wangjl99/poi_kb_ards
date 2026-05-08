@@ -1,0 +1,90 @@
+{
+  "study": {
+    "pmid": "29791822",
+    "journal": "Combes A, Hajage D, Capellier G, et al. Extracorporeal Membrane Oxygenation for Severe Acute Respiratory Distress Syndrome. N Engl J Med. 2018;378(21):1965-1975.",
+    "year": 2018,
+    "study_type": "Prospective international randomized controlled trial",
+    "setting": "ICU",
+    "NCT": "NCT01470703"
+  },
+  "clinical_question": {
+    "condition": "Acute Respiratory Distress Syndrome (ARDS)",
+    "intent": "treatment",
+    "timepoint": "ICU"
+  },
+  "population_context": {
+    "population_description": "Patients with very severe ARDS defined by one of three criteria: PaO2:FiO2 ratio <50 mm Hg for >3 hours, PaO2:FiO2 <80 mm Hg for >6 hours, or arterial blood pH <7.25 with PaCO2 \u226560 mm Hg for >6 hours, who had undergone endotracheal intubation and been receiving ventilation for less than 7 days.",
+    "risk_group": "Patients with severe ARDS refractory to conventional mechanical ventilation despite optimization",
+    "surgical_context": "Non-surgical / ICU",
+    "exclusions": "Age <18 years; mechanical ventilation \u22657 days; pregnancy; weight >1 kg/cm or BMI >45; chronic respiratory insufficiency on oxygen or noninvasive ventilation; cardiac failure requiring venoarterial ECMO; heparin-induced thrombocytopenia history; cancer with life expectancy <5 years; moribund condition or SAPS-II >90; non-drug-induced coma after cardiac arrest; irreversible neurologic injury; decision to withhold/withdraw life-sustaining therapies; expected difficulty obtaining vascular access for ECMO; ECMO device unavailable.",
+    "_sample_size": 249
+  },
+  "intervention": {
+    "name": "Early venovenous ECMO",
+    "components": [
+      "Percutaneous venovenous cannulation",
+      "Anticoagulation with unfractionated heparin"
+    ],
+    "parameter_values": "Anticoagulation target: activated partial-thromboplastin time 40-55 seconds or anti-Xa activity 0.2-0.3 IU/mL",
+    "individualized": false,
+    "timing": "Immediate initiation at randomization in ECMO group; within 2 hours for non-ECMO center patients"
+  },
+  "comparator": {
+    "description": "Continued conventional mechanical ventilation treatment according to the increased recruitment strategy from the Express trial, with strong encouragement of neuromuscular blocking agents and prolonged prone positioning. Recruitment maneuvers, inhaled nitric oxide, inhaled prostacyclin, or intravenous almitrine allowed at discretion. Crossover to ECMO permitted for refractory hypoxemia (SpO2 <80% for >6 hours despite available therapies).",
+    "standard_of_care_flag": true
+  },
+  "outcome_effect": {
+    "outcome_name": "Mortality at 60 days",
+    "direction": "no effect",
+    "effect_measure": "RR",
+    "effect_size": -11.0,
+    "ci_lower": 0.55,
+    "ci_upper": 1.04,
+    "p_value": "0.09",
+    "time_horizon": "60 days"
+  },
+  "evidence_appraisal": {
+    "strengths": [
+      "International, randomized, controlled trial design",
+      "Prospective enrollment of patients with very severe, well-defined ARDS",
+      "Independent data and safety monitoring committee oversight",
+      "Standardized protocols for both ECMO and conventional treatment arms",
+      "Intention-to-treat analysis",
+      "Stratified randomization by center and ventilation duration"
+    ],
+    "limitations": [
+      "Primary endpoint not statistically significant (P=0.09)",
+      "Trial stopped early per sequential design, potentially limiting power to detect differences",
+      "28% crossover rate in control group may have affected treatment effect estimates",
+      "Heterogeneous international settings may introduce practice variation",
+      "Relatively small sample size achieved (249 vs. planned 331)"
+    ],
+    "adverse_events": [
+      "Bleeding events leading to transfusion more common in ECMO group (46% vs. 28%; ARD 18 percentage points; 95% CI 6-30)",
+      "Severe thrombocytopenia more common in ECMO group (27% vs. 16%; ARD 11 percentage points; 95% CI 0-21)",
+      "Ischemic stroke less common in ECMO group (0% vs. 5%; ARD -5 percentage points; 95% CI -10 to -2)",
+      "High mortality in crossover patients (57% of 35 control patients who crossed over died)"
+    ],
+    "quality_score": 0.0
+  },
+  "applicability": {
+    "generalizability_notes": "Findings apply to patients with very severe ARDS meeting specific PaO2:FiO2 and pH/PaCO2 criteria who have been mechanically ventilated <7 days. Results suggest early ECMO does not significantly reduce mortality compared to conventional treatment with ECMO available as rescue therapy. Increased bleeding and thrombocytopenia risks with ECMO should inform decision-making. Applicability may be limited to centers with ECMO expertise and infrastructure.",
+    "subgroup_effects": "Not reported"
+  },
+  "provenance": {
+    "pmid": "29791822",
+    "quoted_sentences": {
+      "design": "In an international clinical trial, we randomly assigned patients with very severe ARDS, as indicated by one of three criteria \u2014 a ratio of partial pressure of arterial oxygen (Pao2) to the fraction of inspired oxygen (Fio2) of less than 50 mm Hg for more than 3 hours; a Pao2:Fio2 of less than 80 mm Hg for more than 6 hours; or an arterial blood pH of less than 7.25 with a partial pressure of arterial carbon dioxide of at least 60 mm Hg for more than 6 hours \u2014 to receive immediate venovenous ECMO (ECMO group) or continued conventional treatment (control group).",
+      "intervention": "Patients assigned to the ECMO group underwent percutaneous venovenous cannulation. Anticoagulation was achieved with unfractionated heparin that was adjusted to a target activated partial-thromboplastin time of 40 to 55 seconds or anti-Xa activity between 0.2 and 0.3 IU per milliliter.",
+      "results": "At 60 days, 44 of 124 patients (35%) in the ECMO group and 57 of 125 (46%) in the control group had died (relative risk, 0.76; 95% confidence interval [CI], 0.55 to 1.04; P = 0.09).",
+      "outcome": "Among patients with very severe ARDS, 60-day mortality was not significantly lower with ECMO than with a strategy of conventional mechanical ventilation that included ECMO as rescue therapy."
+    },
+    "section": "abstract"
+  },
+  "extraction_method": "pdf",
+  "curator_id": "auto-extract",
+  "extraction_date": "2026-02-25T16:36:57.605488",
+  "_paper_number": 4,
+  "_raw_text": "new england\nThe\njournal medicine\nof\nestablished in 1812 May 24, 2018 vol. 378 no. 21\nExtracorporeal Membrane Oxygenation for Severe Acute\nRespiratory Distress Syndrome\nA. Combes, D. Hajage, G. Capellier, A. Demoule, S. Lavou\u00e9, C. Guervilly, D. Da Silva, L. Zafrani, P. Tirot, B. Veber,\nE. Maury, B. Levy, Y. Cohen, C. Richard, P. Kalfon, L. Bouadma, H. Mehdaoui, G. Beduneau, G. Lebreton, L. Brochard,\nN.D. Ferguson, E. Fan, A.S. Slutsky, D. Brodie, and A. Mercat, for the EOLIA Trial Group, REVA, and ECMONet*\nabstract\nBACKGROUND\nThe efficacy of venovenous extracorporeal membrane oxygenation (ECMO) in pa\u00ad The authors\u2019 full names, academic de-\ntients with severe acute respiratory distress syndrome (ARDS) remains controversial. grees, and affiliations are listed in the Ap-\npendix. Address reprint requests to Dr.\nCombes at Service de M\u00e9decine Intensive\u2013\nMETHODS\nR\u00e9animation, H\u00f4pital Piti\u00e9\u2013Salp\u00eatri\u00e8re,\nIn an international clinical trial, we randomly assigned patients with very severe\nAssistance Publique\u2013H\u00f4pitaux de Paris,\nARDS, as indicated by one of three criteria \u2014 a ratio of partial pressure of arte\u00ad Sorbonne Universit\u00e9 INSERM, UMRS\nrial oxygen (Pao) to the fraction of inspired oxygen (Fio) of less than 50 mm Hg 1166-ICAN, Institute of Cardiometabo-\n2 2 lism and Nutrition 47, Boulevard de\nfor more than 3 hours; a Pao:Fio of less than 80 mm Hg for more than 6 hours;\nl\u2019H\u00f4pital, F-75013 Paris, France, or at\n2 2\nor an arterial blood pH of less than 7.25 with a partial pressure of arterial carbon a lain. c ombes@a php. f r.\ndioxide of at least 60 mm Hg for more than 6 hours \u2014 to receive immediate ve\u00ad\n*A list of the investigators in the ECMO\nnovenous ECMO (ECMO group) or continued conventional treatment (control group). to Rescue Lung Injury in Severe ARDS\nCrossover to ECMO was possible for patients in the control group who had refractory (EOLIA) Trial Group, the R\u00e9seau Euro-\np\u00e9en en Ventilation Artificielle (REVA),\nhypoxemia. The primary end point was mortality at 60 days.\nand the International ECMO Network\n(ECMONet) is provided in the Supple-\nRESULTS mentary Appendix, available at NEJM.org.\nAt 60 days, 44 of 124 patients (35%) in the ECMO group and 57 of 125 (46%) in the\nDrs. Brodie and Mercat contributed equal-\ncontrol group had died (relative risk, 0.76; 95% confidence interval [CI], 0.55 to 1.04; ly to this article.\nP = 0.09). Crossover to ECMO occurred a mean (\u00b1SD) of 6.5\u00b19.7 days after random\u00ad\nN Engl J Med 2018;378:1965-75.\nization in 35 patients (28%) in the control group, with 20 of these patients (57%) DOI: 10.1056/NEJMoa1800385\ndying. The frequency of complications did not differ significantly between groups, Copyright \u00a9 2018 Massachusetts Medical Society.\nexcept that there were more bleeding events leading to transfusion in the ECMO\ngroup than in the control group (in 46% vs. 28% of patients; absolute risk difference,\n18 percentage points; 95% CI, 6 to 30) as well as more cases of severe thrombo\u00ad\ncytopenia (in 27% vs. 16%; absolute risk difference",
+  "_title": "Extracorporeal Membrane Oxygenation for Severe Acute Respiratory Distress Syndrome"
+}

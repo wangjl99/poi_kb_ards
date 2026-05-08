@@ -1,0 +1,91 @@
+{
+  "study": {
+    "pmid": "33016981",
+    "journal": "Williams GW, Berg NK, Reskallah A, Yuan X, Eltzschig HK. Acute Respiratory Distress Syndrome: Contemporary Management and Novel Approaches during COVID-19. Anesthesiology. 2021 February 01;134(2):270-282.",
+    "year": 2021,
+    "study_type": "Systematic Review",
+    "setting": "ICU",
+    "NCT": ""
+  },
+  "clinical_question": {
+    "condition": "ARDS",
+    "intent": "treatment",
+    "timepoint": "ICU"
+  },
+  "population_context": {
+    "population_description": "Review of ARDS management strategies across multiple randomized controlled trials and observational studies involving critically ill patients with acute respiratory distress syndrome, including COVID-19 patients.",
+    "risk_group": "Critically ill patients with ARDS, severe ARDS, COVID-19 related ARDS",
+    "surgical_context": "Non-surgical / ICU",
+    "exclusions": "Not reported",
+    "_sample_size": 5500
+  },
+  "intervention": {
+    "name": "Multiple ARDS management strategies",
+    "components": [
+      "Small tidal volume ventilation",
+      "Positive End Expiratory Pressure (PEEP)",
+      "Prone positioning",
+      "Corticosteroid administration",
+      "Conservative oxygenation"
+    ],
+    "parameter_values": "Small tidal volumes: 6 ml/kg PBW; Prone positioning: minimum 16 hours per day; Dexamethasone dosing as per individual trials; Conservative oxygen: PaO2 70-100 mm Hg or SpO2 88-92%",
+    "individualized": false,
+    "timing": "During mechanical ventilation and ICU management"
+  },
+  "comparator": {
+    "description": "Various control arms across trials including conventional tidal volumes (12 ml/kg), lower PEEP levels, supine positioning, placebo, and liberal oxygenation (SpO2 >96%)",
+    "standard_of_care_flag": true
+  },
+  "outcome_effect": {
+    "outcome_name": "Multiple outcomes including mortality, ventilator-free days, oxygenation, duration of mechanical ventilation",
+    "direction": "mixed",
+    "effect_measure": "other",
+    "effect_size": 0.0,
+    "ci_lower": 0.0,
+    "ci_upper": 0.0,
+    "p_value": "NR",
+    "time_horizon": "28 days, 60 days, in-hospital"
+  },
+  "evidence_appraisal": {
+    "strengths": [
+      "Comprehensive review of ARDS Network and PETAL Network trials with over 25 years of research collaboration",
+      "Synthesis of multiple high-quality randomized controlled trials",
+      "Inclusion of recent meta-analyses supporting prone positioning benefits",
+      "Discussion of contemporary evidence during COVID-19 pandemic"
+    ],
+    "limitations": [
+      "Review article synthesizing heterogeneous trial designs and populations",
+      "Some trials had methodological concerns including lack of blinding and crossover effects",
+      "Mixed results for PEEP optimization with potential bias from uncontrolled tidal volumes in some studies",
+      "Conservative oxygenation trial (LOCO2) terminated early, limiting full analysis",
+      "Limited sample sizes in some key steroid trials (n=8 control group in Meduri study)"
+    ],
+    "adverse_events": [
+      "Increased mortality at 28 days in conservative oxygen treatment group in LOCO2 trial",
+      "Five episodes of mesenteric ischemia in conservative oxygen treatment arm",
+      "Increased mortality when steroid treatment started after 14 days of ARDS diagnosis",
+      "Risk of endotracheal tube and vascular line displacement with prone positioning"
+    ],
+    "quality_score": 0.0
+  },
+  "applicability": {
+    "generalizability_notes": "Findings apply to critically ill ICU patients with ARDS across perioperative and critical care settings. Results are particularly relevant for COVID-19 related ARDS. Small tidal volume ventilation and prone positioning recommendations are strong for severe ARDS. Findings may not apply to mild and moderate ARDS for prone positioning due to underpowered trials.",
+    "subgroup_effects": "Higher PEEP associated with improved survival in patients who objectively respond to increased PEEP (show improved oxygenation). Prone positioning efficacy demonstrated primarily in severe ARDS (PaO2/FiO2 <150). Early steroid administration (within 14 days) may be more beneficial than late administration."
+  },
+  "provenance": {
+    "pmid": "33016981",
+    "quoted_sentences": {
+      "design": "Here, we describe select management strategies that have become foundations of ARDS clinical management and provide an update of emerging approaches for the treatment of ARDS related with COVID-19.",
+      "intervention": "Amongst the best-established guidelines in managing ARDS patients is the use of small tidal volumes during mechanical ventilation. In 2000, Investigators from the ARDSNet Lower Tidal Volume Trial (ARMA) trial reported significantly decreased rates of mortality (31.0% vs. 39.8%) in ARDS patients ventilated with 6ml/kg of predicted body weight (kg) tidal volumes versus those with 12 ml/kg PBW.",
+      "results": "In 2013, Guérin and colleagues reported the results of the Proning Severe ARDS Patients (PROSEVA) trial in which severe ARDS patients (PaO2/FiO2 less than 150 on FiO2 of at least 0.6) were randomized to prone positioning for a minimum of 16 hours a day. Patients randomized to prone positioning had a 50% reduction in mortality (16% versus 32.8%) at 28 days.",
+      "outcome": "Despite these encouraging results in reducing mortality with the use of prone positioning, data from a large, multinational prospective observational study indicate that the maneuver was employed in only 16.3% of severe ARDS patients."
+    },
+    "section": "full-text"
+  },
+  "extraction_method": "pdf",
+  "curator_id": "auto-extract",
+  "extraction_date": "2026-02-25T16:38:24.779888",
+  "_paper_number": 10,
+  "_raw_text": "HHS Public Access\nAuthor manuscript\nAnesthesiology. Author manuscript; available in PMC 2022 February 01.\nPublished in final edited form as:\nAnesthesiology. 2021 February 01; 134(2): 270–282. doi:10.1097/ALN.0000000000003571.\nAcute Respiratory Distress Syndrome: Contemporary\nManagement and Novel Approaches during COVID-19\nGeorge W. Williams, M.D.#1,*, Nathaniel K. Berg#1,*, Alexander Reskallah, M.D.1, Xiaoyi\nYuan, Ph.D.1, Holger K. Eltzschig, M.D., Ph.D.1\n1Department of Anesthesiology, University of Texas Health Science Center at Houston, McGovern\nMedical School, Houston, TX, USA\n# These authors contributed equally to this work.\nAbstract\nAcute Respiratory Distress Syndrome (ARDS) is defined as the rapid onset of non-cardiogenic\npulmonary edema resulting in respiratory failure and hypoxemia. Efforts over the past 25 years,\nsuch as those of the ARDS and Prevention and Early Treatment of Acute Lung Injury (PETAL)\nNetworks, have demonstrated a praiseworthy collaboration to further optimize the management of\nARDS. However, improvements have been only moderate and ARDS remains a leading cause of\nmortality in the perioperative and critical care setting. Recently, the significant morbidity and\nmortality of ARDS have been emphasized by its high incidence in Coronavirus Disease 2019\n(COVID-19) patients. A major hurdle to reducing ARDS mortality is that current treatment is\nlimited to preventive measures – such as the use of lung-protective ventilation. Therapeutic\napproaches targeting the underlying inflammatory lung disease are areas of intensive research, but\nhave not been clinically implemented. Nevertheless, basic science and clinical research efforts that\nare aimed at identifying novel treatment approaches and further improving outcomes for ARDS\nare ongoing. Here, we review evidence-based management approaches for ARDS, while\nhighlighting those being investigated or heavily utilized in ARDS associated with COVID-19.\nSummary Statement:\nAcute Respiratory Distress Syndrome remains a condition that carries a high mortality. Evidence-\nbased clinical management and emerging concepts for new therapies for COVID-19 are reviewed.\nIntroduction\nThe acute respiratory distress syndrome (ARDS) is defined as hypoxemia secondary to a\nrapid onset of noncardiogenic pulmonary edema.1 Etiologic risk factors for ARDS\nencompass both direct- and indirect-lung injuries including, but not limited to pneumonia,\nsepsis, non-cardiogenic shock, aspiration, trauma, contusion, transfusion, and inhalation\nCorresponding Author: Holger K. Eltzschig, M.D., Ph.D., Department of Anesthesiology, The University of Texas Health Science\nCenter at Houston, McGovern Medical School, 6431 Fannin Street, Houston, TX 77030, USA, Phone: 713-500-6222,\nHolger.Eltzschig@uth.tmc.edu.\n*Contributed equally\nConflicts of Interest: GWW: Merck Pharmaceuticals- Scientific Speaker for Sugammadex\nAuthor\nManuscript\nAuthor\nManuscript\nAuthor\nManuscript\nAuthor\nManuscript\nWilliams et al. Page 2\ninjuries. Though clin",
+  "_title": "Acute Respiratory Distress Syndrome: Contemporary Management and Novel Approaches during COVID-19"
+}

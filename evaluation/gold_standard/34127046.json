@@ -1,0 +1,90 @@
+{
+  "study": {
+    "pmid": "34127046",
+    "journal": "Rosén et al. Awake prone positioning in patients with hypoxemic respiratory failure due to COVID-19: the PROFLO multicenter randomized clinical trial. Crit Care. 2021.",
+    "year": 2021,
+    "study_type": "Prospective multicenter open-label randomized clinical trial",
+    "setting": "ICU",
+    "NCT": "ISRCTN54917435"
+  },
+  "clinical_question": {
+    "condition": "Hypoxemic respiratory failure due to COVID-19",
+    "intent": "treatment",
+    "timepoint": "ICU"
+  },
+  "population_context": {
+    "population_description": "Adult patients with confirmed COVID-19 and moderate to severe hypoxemic respiratory failure receiving high-flow nasal oxygen or noninvasive ventilation with PaO2/FiO2 ratio ≤20 kPa.",
+    "risk_group": "COVID-19 patients with moderate to severe hypoxemic respiratory failure on HFNO or NIV",
+    "surgical_context": "Non-surgical / ICU",
+    "exclusions": "Oxygen supplementation with device other than HFNO or NIV; inability to assume prone position; immediate need for intubation; severe hemodynamic instability; previous intubation for COVID-19; pregnancy; terminal illness; do-not-intubate order; inability to understand study information",
+    "_sample_size": 75
+  },
+  "intervention": {
+    "name": "Awake prone positioning protocol",
+    "components": [
+      "Prone positioning",
+      "Semi-prone positioning",
+      "Lateral positioning between proning sessions",
+      "Discouragement of flat supine positioning"
+    ],
+    "parameter_values": "Targeting at least 16 hours of awake prone positioning per day",
+    "individualized": false,
+    "timing": "Initiated after randomization in non-intubated patients with hypoxemic respiratory failure"
+  },
+  "comparator": {
+    "description": "Standard care without protocolized awake prone positioning; APP could be prescribed at clinician discretion",
+    "standard_of_care_flag": true
+  },
+  "outcome_effect": {
+    "outcome_name": "Intubation within 30 days after enrollment",
+    "direction": "no effect",
+    "effect_measure": "HR",
+    "effect_size": 0.0,
+    "ci_lower": 0.46,
+    "ci_upper": 2.21,
+    "p_value": "0.99",
+    "time_horizon": "30 days"
+  },
+  "evidence_appraisal": {
+    "strengths": [
+      "Multicenter randomized clinical trial design",
+      "Prospective registration and protocol",
+      "Adequate blinded interim analysis and futility assessment",
+      "Intention-to-treat analysis",
+      "No patients lost to follow-up",
+      "Balanced baseline characteristics between groups"
+    ],
+    "limitations": [
+      "Early termination due to futility",
+      "Small sample size (75 patients) relative to original planned sample (240 patients)",
+      "Open-label design with awareness of allocation",
+      "Rapidly declining case numbers in January 2021 led to earlier interim analysis",
+      "Limited generalizability due to enrollment from only three Swedish hospitals",
+      "No correction for multiple testing in secondary endpoint analyses"
+    ],
+    "adverse_events": [
+      "Pressure sores: 9 patients (23%) in control group vs 2 patients (6%) in prone group (difference -18%, 95% CI -33% to -2%, P=0.032)"
+    ],
+    "quality_score": 0.0
+  },
+  "applicability": {
+    "generalizability_notes": "Findings apply to adult COVID-19 patients with moderate to severe hypoxemic respiratory failure supported by HFNO or NIV in hospital settings. Results from Swedish tertiary and county hospitals may have limited generalizability to other healthcare systems and populations.",
+    "subgroup_effects": "Not reported"
+  },
+  "provenance": {
+    "pmid": "34127046",
+    "quoted_sentences": {
+      "design": "We conducted a multicenter randomized clinical trial. Adult patients with confirmed COVID-19, high-flow nasal oxygen or noninvasive ventilation for respiratory support and a PaO2/FiO2 ratio ≤20 kPa were randomly assigned to a protocol targeting 16 h prone positioning per day or standard care.",
+      "intervention": "A protocol targeting at least 16 h APP per day was initiated. Prone and semi-prone positioning was allowed. Flat supine positioning was discouraged and patients were instructed to place themselves in the semi-recumbent or lateral position in between proning sessions.",
+      "results": "Within 30 days after enrollment, 13 patients (33%) were intubated in the control group versus 12 patients (33%) in the prone group (HR 1.01 (95% CI 0.46–2.21), P=0.99).",
+      "outcome": "The implemented protocol for awake prone positioning increased duration of prone positioning, but did not reduce the rate of intubation in patients with hypoxemic respiratory failure due to COVID-19 compared to standard care."
+    },
+    "section": "abstract"
+  },
+  "extraction_method": "pdf",
+  "curator_id": "auto-extract",
+  "extraction_date": "2026-02-25T16:38:41.639420",
+  "_paper_number": 11,
+  "_raw_text": "Rosén et al. Crit Care (2021) 25:209\nhttps://doi.org/10.1186/s13054-021-03602-9\nRESEARCH Open Access\nAwake prone positioning in patients\nwith hypoxemic respiratory failure due\nto COVID-19: the PROFLO multicenter\nrandomized clinical trial\nJacob Rosén1*† , Erik von Oelreich2,3†, Diddi Fors1, Malin Jonsson Fagerlund2,3, Knut Taxbro4, Paul Skorup5,\nLudvig Eby6, Francesca Campoccia Jalde2,7, Niclas Johansson8,9, Gustav Bergström5 , Peter Frykholm1 and the\nPROFLO Study Group\nAbstract\nBackground: The effect of awake prone positioning on intubation rates is not established.The aim of this trial was\nto investigate if a protocol for awake prone positioning reduces the rate of endotracheal intubation compared with\nstandard care among patients with moderate to severe hypoxemic respiratory failure due to COVID-19.\nMethods: We conducted a multicenter randomized clinical trial. Adult patients with confirmed COVID-19, high-\nflow nasal oxygen or noninvasive ventilation for respiratory support and a PaO /FiO ratio 20 kPa were randomly\n2 2 ≤\nassigned to a protocol targeting 16 h prone positioning per day or standard care. The primary endpoint was intuba-\ntion within 30 days. Secondary endpoints included duration of awake prone positioning, 30-day mortality, ventilator-\nfree days, hospital and intensive care unit length of stay, use of noninvasive ventilation, organ support and adverse\nevents. The trial was terminated early due to futility.\nResults: Of 141 patients assessed for eligibility, 75 were randomized of whom 39 were allocated to the control group\nand 36 to the prone group. Within 30 days after enrollment, 13 patients (33%) were intubated in the control group\nversus 12 patients (33%) in the prone group (HR 1.01 (95% CI 0.46–2.21), P 0.99). Median prone duration was 3.4 h\n=\n[IQR 1.8–8.4] in the control group compared with 9.0 h per day [IQR 4.4–10.6] in the prone group (P 0.014). Nine\n=\npatients (23%) in the control group had pressure sores compared with two patients (6%) in the prone group (dif-\nference 18% (95% CI 2 to 33%); P 0.032). There were no other differences in secondary outcomes between\n− − − =\ngroups.\nConclusions: The implemented protocol for awake prone positioning increased duration of prone positioning, but\ndid not reduce the rate of intubation in patients with hypoxemic respiratory failure due to COVID-19 compared to\nstandard care.\nTrial registration: ISRCTN54917435. Registered 15 June 2020 (https:// doi. org/ 10. 1186/ ISRCT N5491 7435).\n*Correspondence: jacob.rosen@surgsci.uu.se\n†Jacob Rosén and Erik von Oelreich contributed equally to this work\n1 Department of Surgical Sciences, Section of Anaesthesiology\nand Intensive Care Medicine, Uppsala University, Entrance 78, 1 floor, 751\n85 Uppsala, Sweden\nFull list of author information is available at the end of the article\n© The Author(s) 2021. Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which\npermits use, sharing, adaptation, distribution ",
+  "_title": "Awake prone positioning in patients with hypoxemic respiratory failure due to COVID-19: the PROFLO multicenter randomized clinical trial"
+}

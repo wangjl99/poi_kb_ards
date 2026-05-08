@@ -1,0 +1,186 @@
+{
+  "study": {
+    "pmid": "38065200",
+    "journal": "Lancet Respir Med. 2024 Mar;12(3):195-206. doi: 10.1016/S2213-2600(23)00346-6. Epub 2023 Dec 5.",
+    "year": 2024,
+    "study_type": "Multicentre randomised controlled trial",
+    "setting": "perioperative",
+    "NCT": "NCT03182062",
+    "trial_name": "iPROVE-OLV",
+    "first_author": "Ferrando C",
+    "title": "Individualised, perioperative open-lung ventilation strategy during one-lung ventilation (iPROVE-OLV): a multicentre, randomised, controlled clinical trial."
+  },
+  "clinical_question": {
+    "condition": "Severe postoperative pulmonary complications (PPCs) in thoracic surgery with one-lung ventilation",
+    "intent": "prevention",
+    "timepoint": "perioperative"
+  },
+  "population_context": {
+    "population_description": "Adults aged ≥18 years scheduled for open or video-assisted thoracic surgery (VATS) using one-lung ventilation (OLV) for lung resection. Enrolled Sept 11, 2018 – June 14, 2022 across 25 hospitals in Spain, Italy, Turkey, Egypt, and Ecuador. 1380 enrolled; 1308 eligible included in final analysis (iOLA n=670, standard n=638).",
+    "risk_group": "Patients undergoing lung resection requiring one-lung ventilation; elevated risk of severe PPCs due to obligatory single-lung physiology",
+    "surgical_context": "Elective open thoracotomy or video-assisted thoracic surgery (VATS) for lung resection requiring one-lung ventilation",
+    "exclusions": "Age <18 years; BMI >35 kg/m²; PaO₂/FiO₂ <200 mmHg (moderate-severe ARDS); NYHA class IV heart failure; haemodynamic failure (CI <2.5 L/min/m² or preoperative inotropic support); suspected intracranial hypertension (ICP >15 mmHg); mechanical ventilation in prior 15 days; pneumothorax; giant bullae on imaging; preoperative CPAP use; participation in another experimental protocol",
+    "_sample_size": 1308,
+    "_enrolled": 1380,
+    "_iOLA_n": 670,
+    "_standard_n": 638
+  },
+  "intervention": {
+    "name": "Individualised perioperative open-lung approach (iOLA) during one-lung ventilation",
+    "components": [
+      "Alveolar recruitment manoeuvre (ARM) to 40 cmH₂O end-inspiratory pressure",
+      "PEEP titrated to best (highest) respiratory system compliance (not fixed PEEP)",
+      "Low tidal volume 5–6 ml/kg ideal body weight throughout OLV",
+      "Individualised postoperative respiratory support with high-flow nasal oxygen (HFNO) therapy"
+    ],
+    "parameter_values": "ARM: stepwise PEEP increase to 40 cmH₂O peak pressure in PCV mode; PEEP titration: decremental steps from 20 cmH₂O, each 5 breaths, optimal = highest dynamic Crs; postop: HFNO flow/FiO₂ titrated to SpO₂ ≥92%; reassessment every 40 min intraoperatively with repeat ARM if Crs drops >10%",
+    "individualized": true,
+    "timing": "Intraoperative (throughout OLV) and postoperative (HFNO until discharge criteria met)"
+  },
+  "comparator": {
+    "description": "Standard lung-protective ventilation: fixed PEEP 4 cmH₂O, no recruitment manoeuvres, no PEEP titration; postoperative conventional supplemental oxygen therapy (not HFNO)",
+    "standard_of_care_flag": true
+  },
+  "outcome_effect": {
+    "outcome_name": "Composite of severe postoperative pulmonary complications within 7 postoperative days",
+    "outcome_components": [
+      "Atelectasis requiring bronchoscopy",
+      "Severe respiratory failure",
+      "Contralateral pneumothorax",
+      "Early extubation failure (rescue with CPAP, NIV, invasive MV, or reintubation)",
+      "Acute respiratory distress syndrome (ARDS)",
+      "Pulmonary infection",
+      "Bronchopleural fistula",
+      "Pleural empyema"
+    ],
+    "direction": "benefit",
+    "effect_measure": "RR",
+    "effect_size": -9.0,
+    "ci_lower": 0.28,
+    "ci_upper": 0.56,
+    "p_value": "<0.001",
+    "absolute_risk_difference": -9.23,
+    "ard_ci_lower": -12.55,
+    "ard_ci_upper": -5.92,
+    "NNT": 11,
+    "time_horizon": "7 postoperative days",
+    "events_intervention": "40/670 (6%)",
+    "events_comparator": "97/638 (15%)"
+  },
+  "additional_outcomes": [
+    {
+      "outcome_name": "Recruitment manoeuvre-related adverse events",
+      "direction": "minimal harm",
+      "description": "5 patients experienced adverse events related to ARM (haemodynamic instability or SpO₂ desaturation); all resolved without lasting harm",
+      "events": "5/670 (0.7%)"
+    }
+  ],
+  "mechanism": {
+    "proposed": "One-lung ventilation creates obligatory atelectasis in the dependent lung and obligatory collapse of the contralateral (operative) lung. Fixed low PEEP is insufficient to recruit the dependent lung against gravity-induced compression and increased perfusion. Individualised PEEP titrated to best Crs identifies the PEEP level that keeps the maximum number of alveoli open throughout the surgical field rotation and lung manipulation. HFNO postoperatively prevents re-atelectasis during the vulnerable early recovery period when diaphragmatic dysfunction and secretion retention peak.",
+    "latent_mechanism_nodes": [
+      "dependent lung atelectasis (OLV-specific)",
+      "gravity-induced alveolar compression",
+      "optimal alveolar recruitment pressure",
+      "respiratory system compliance optimisation",
+      "postoperative diaphragmatic dysfunction"
+    ]
+  },
+  "context_qualifiers": {
+    "surgery_type": "thoracic with one-lung ventilation",
+    "lung_physiology": "single-lung — fundamentally different from two-lung abdominal surgery physiology",
+    "contrast_trial": "iPROVE (PMID 29371130, abdominal surgery, same OLA strategy = NULL result)",
+    "context_specificity_note": "Same OLA principle, same PI (Ferrando), different surgical context → opposite result. OLV physiology makes individualized PEEP beneficial; two-lung abdominal surgery does not.",
+    "temporal_context": "post-COVID (enrollment 2018-2022; published 2024)"
+  },
+  "evidence_appraisal": {
+    "strengths": [
+      "Large multicentre RCT across 25 international hospitals (Spain, Italy, Turkey, Egypt, Ecuador)",
+      "1308 patients in modified ITT analysis — well-powered",
+      "Clinically meaningful composite primary outcome (severe PPCs only, not mild)",
+      "Pre-registered primary outcome (NCT03182062)",
+      "Blinded outcome assessment from 24h post-surgery",
+      "Strong effect size (RR 0.39, NNT=11) with narrow CI",
+      "Safety profile acceptable: only 5/670 ARM-related adverse events"
+    ],
+    "limitations": [
+      "Unblinded intraoperative and immediate postoperative investigators (operationally unavoidable)",
+      "Multi-component intervention (PEEP titration + HFNO): cannot isolate which component drives benefit",
+      "BMI >35 excluded — limits applicability to obese thoracic surgery patients",
+      "VATS and open thoracotomy combined — potential heterogeneity by approach",
+      "Predominantly elective resections — not generalisable to emergency thoracic surgery"
+    ],
+    "adverse_events": [
+      "Recruitment manoeuvre-related adverse events: 5/670 patients (0.7%) in iOLA group"
+    ],
+    "quality_score": 9,
+    "quality_score_note": "9/10. Tied highest quality. 5 countries, n=1308, assessor-blinded. Context mandatory: thoracic/OLV surgery only."
+  },
+  "applicability": {
+    "generalizability_notes": "Results apply to adult patients undergoing elective lung resection under OLV with BMI ≤35. The 5-country international recruitment improves generalisability compared to iPROVE (Spain only). The benefit likely requires OLV physiology — results should not be extrapolated to two-lung ventilation contexts.",
+    "subgroup_effects": "Not reported in abstract; post-hoc analyses available (mechanical power sub-study PMID 40905246; neuromuscular block sub-study PMID 39893063)"
+  },
+  "poi_graph_edges": [
+    {
+      "from": "individualised-OLA-iOLA-one-lung-ventilation",
+      "to": "reduced-severe-postoperative-PPCs-7d",
+      "type": "BENEFICIAL",
+      "weight": 0.93,
+      "confidence": "HIGH",
+      "label": "RR 0.39 (0.28-0.56), ARD -9.23%, NNT=11",
+      "context_required": [
+        "thoracic surgery",
+        "one-lung ventilation",
+        "lung resection"
+      ],
+      "source": "iPROVE-OLV PMID 38065200"
+    },
+    {
+      "from": "individualised-PEEP-titration-best-compliance-OLV",
+      "to": "dependent-lung-atelectasis-prevention",
+      "type": "MECHANISM-BENEFICIAL",
+      "weight": 0.78,
+      "confidence": "MEDIUM",
+      "label": "Proposed mechanism: Crs-guided PEEP prevents gravity-compression atelectasis in OLV",
+      "source": "iPROVE-OLV PMID 38065200"
+    }
+  ],
+  "hitl_flags": [
+    "Multi-component intervention (PEEP titration + HFNO): which component drives benefit? Attribution unclear.",
+    "Contrast with iPROVE (PMID 29371130, abdominal surgery): SAME strategy = NULL — context specificity must be encoded as mandatory edge qualifier",
+    "quality_score requires domain expert assignment (currently 0.0)"
+  ],
+  "provenance": {
+    "pmid": "38065200",
+    "nct": "NCT03182062",
+    "quoted_sentences": {
+      "design": "This multicentre, randomised controlled trial enrolled patients scheduled for open or video-assisted thoracic surgery using one-lung ventilation in 25 participating hospitals in Spain, Italy, Turkey, Egypt, and Ecuador.",
+      "enrollment": "Between Sept 11, 2018, and June 14, 2022, we enrolled 1380 patients, of whom 1308 eligible patients (670 assigned to iOLA and 638 to standard lung-protective ventilation) were included in the final analysis.",
+      "intervention": "Treatment with iOLA included an alveolar recruitment manoeuvre to 40 cm H₂O of end-inspiratory pressure followed by individualised positive end-expiratory pressure (PEEP) titrated to best respiratory system compliance, and individualised postoperative respiratory support with high-flow oxygen therapy.",
+      "comparator": "Participants allocated to standard lung-protective ventilation received combined intraoperative 4 cm H₂O of PEEP and postoperative conventional oxygen therapy.",
+      "results": "The proportion of patients with the composite outcome of severe postoperative pulmonary complications within the first 7 postoperative days was lower in the iOLA group compared with the standard lung-protective ventilation group (40 [6%] vs 97 [15%], relative risk 0.39 [95% CI 0.28 to 0.56]), with an absolute risk difference of -9.23 (95% CI -12.55 to -5.92).",
+      "adverse_events": "Recruitment manoeuvre-related adverse events were reported in five patients.",
+      "conclusion": "Among patients subjected to lung resection under one-lung ventilation, iOLA was associated with a reduced risk of severe postoperative pulmonary complications when compared with conventional lung-protective ventilation."
+    },
+    "section": "abstract"
+  },
+  "extraction_method": "pubmed-abstract-verified",
+  "curator_id": "auto-extract-corrected",
+  "extraction_date": "2026-02-27",
+  "correction_log": {
+    "error_detected": "38065200.json previously contained iPROVE abdominal surgery data (PMID 29371130, 2018, NCT02158923, n=967, NULL result) — wrong trial entirely",
+    "correction": "Replaced with correct iPROVE-OLV thoracic surgery data (PMID 38065200, 2024, NCT03182062, n=1308, BENEFICIAL)",
+    "verified_by": "NCT03182062 registry cross-check + PubMed abstract PMID 38065200",
+    "impact": "All edges derived from old 38065200.json were encoding a duplicate NULL result; correct edges now encode BENEFICIAL result (RR 0.39, NNT=11)"
+  },
+  "quality_score_criteria": {
+    "C1": 1,
+    "C2": 1,
+    "C3": 1,
+    "C4": 1,
+    "C5": 1,
+    "C6": 1,
+    "C7": 1,
+    "C8": 1,
+    "C9": 1
+  }
+}

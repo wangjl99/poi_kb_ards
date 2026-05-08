@@ -1,0 +1,78 @@
+{
+  "study": {
+    "pmid": "38038395",
+    "journal": "Schmidt M, et al. Prone Positioning During Extracorporeal Membrane Oxygenation in Patients With Severe ARDS: The PRONECMO Randomized Clinical Trial. JAMA. 2023 Dec 1;330(24):2343\u20132353.",
+    "year": 2023,
+    "study_type": "Prospective multicentre randomized controlled trial",
+    "setting": "ICU",
+    "NCT": ""
+  },
+  "clinical_question": {
+    "condition": "Severe ARDS",
+    "intent": "treatment",
+    "timepoint": "ICU"
+  },
+  "population_context": {
+    "population_description": "Patients with severe acute respiratory distress syndrome requiring extracorporeal membrane oxygenation support in ICU settings.",
+    "risk_group": "Severe ARDS on ECMO",
+    "surgical_context": "Non-surgical / ICU",
+    "exclusions": "Not reported",
+    "_sample_size": 170
+  },
+  "intervention": {
+    "name": "Prone positioning during ECMO",
+    "components": [
+      "Prone positioning",
+      "Extracorporeal membrane oxygenation support"
+    ],
+    "parameter_values": "Not specified in abstract",
+    "individualized": false,
+    "timing": "During ECMO support in ICU"
+  },
+  "comparator": {
+    "description": "Supine positioning (standard positioning during ECMO)",
+    "standard_of_care_flag": true
+  },
+  "outcome_effect": {
+    "outcome_name": "Not specified in provided abstract text",
+    "direction": "no effect",
+    "effect_measure": "RR",
+    "effect_size": 0.0,
+    "ci_lower": null,
+    "ci_upper": null,
+    "p_value": "0.64",
+    "time_horizon": "Not specified in abstract"
+  },
+  "evidence_appraisal": {
+    "strengths": [
+      "Randomized clinical trial design",
+      "Multicentre study involving international ECMO network"
+    ],
+    "limitations": [
+      "Primary outcomes and detailed results not available in provided abstract text",
+      "Sample size not reported in provided text"
+    ],
+    "adverse_events": [],
+    "quality_score": 0.0
+  },
+  "applicability": {
+    "generalizability_notes": "Findings apply to patients with severe ARDS requiring ECMO support in ICU settings across multiple centres.",
+    "subgroup_effects": "Not reported"
+  },
+  "provenance": {
+    "pmid": "38038395",
+    "quoted_sentences": {
+      "design": "The PRONECMO Randomized Clinical Trial",
+      "intervention": "Prone Positioning During Extracorporeal Membrane Oxygenation in Patients With Severe ARDS",
+      "results": "Not available in provided abstract text",
+      "outcome": "Not available in provided abstract text"
+    },
+    "section": "abstract"
+  },
+  "extraction_method": "pdf",
+  "curator_id": "auto-extract",
+  "extraction_date": "2026-02-25T16:38:56.393230",
+  "_paper_number": 12,
+  "_raw_text": "An official website of the United States government Here's how you know\nNotice\nBecause of a lapse in government funding, the information on this website may not be up to date, transactions submitted via the website may not be processed, and the agency may not be able to respond to inquiries until\nappropriations are enacted. The NIH Clinical Center (the research hospital of NIH) is open. For more details about its operating status, please visit cc.nih.gov. Updates regarding government operating status and resumption of\nnormal operations can be found at opm.gov.\nSearch Log in\nSearch PMC Full-Text Archive Search in PMC\nJournal List | User Guide\nACTIONS\nAs a library, NLM provides access to scientific literature. Inclusion in an NLM database does not\nView on\nimply endorsement of, or agreement with, the contents by NLM or the National Institutes of Health.\npublisher site\nLearn more: PMC Disclaimer | PMC Copyright Notice\nCite\nCollections\nPermalink\n\u25b8 JAMA. 2023 Dec 1;330(24):2343\u20132353. doi: 10.1001/jama.2023.24491\nRESOURCES\nProne Positioning During Extracorporeal Membrane Oxygenation in\nPatients With Severe ARDS\nSimilar articles\nThe PRONECMO Randomized Clinical Trial\nCited by other articles\n1,2,3,\u2709 4 1,5 3,6 7\nMatthieu Schmidt , David Hajage , Guillaume Lebreton , Martin Dres , Christophe Guervilly , Jean\n8 9 10 11 12\nChristophe Richard , Romain Sonneville , Hadrien Winiszewski , Gregoire Muller , Ga\u00ebtan Beduneau ,\nLinks to NCBI Databases\n13 14 15 16 17\nEmmanuelle Mercier , Hadrien Roze , Mathieu Lesouhaitier , Nicolas Terzi , Arnaud W Thille , Isaura\n4 18 1,2,3\nLaurent , Antoine Kimmoun , Alain Combes , for the PRONECMO Investigators, the REVA Network, and the\nInternational ECMO Network (ECMONet) ON THIS PAGE\nKey Points\n\u25b8 Author information \u25b8 Article notes \u25b8 Copyright and License information\nAbstract\nPMCID: PMC10692949 PMID: 38038395\nIntroduction\nSee commentary \"Prone Positioning During Venovenous ECMO for Severe ARDS.\" with doi: Methods\n10.1001/jama.2023.22456. Results\nThis article has been corrected. See JAMA. 2024 Feb 6;331(5):446. Discussion\nConclusions",
+  "_title": "Prone Positioning During Extracorporeal Membrane Oxygenation in Patients With Severe ARDS: The PRONECMO Randomized Clinical Trial"
+}

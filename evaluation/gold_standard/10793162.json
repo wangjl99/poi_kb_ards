@@ -1,0 +1,60 @@
+{
+  "study": {
+    "pmid": "10793162",
+    "journal": "The New England Journal of Medicine. 2000;342(18):1301-1308.",
+    "year": 2000,
+    "study_type": "Randomized controlled trial",
+    "setting": "ICU",
+    "NCT": null
+  },
+  "clinical_question": {
+    "condition": "Acute Lung Injury / Acute Respiratory Distress Syndrome",
+    "intent": "treatment",
+    "timepoint": "ICU"
+  },
+  "population_context": {
+    "population_description": "Patients with acute lung injury or ARDS on mechanical ventilation. PaO2:FiO2 < 300 with bilateral infiltrates.",
+    "risk_group": "ALI/ARDS patients on mechanical ventilation",
+    "surgical_context": "Non-surgical / ICU",
+    "_sample_size": 861
+  },
+  "intervention": {
+    "name": "Low tidal volume ventilation",
+    "components": [
+      "Tidal volume 6 ml/kg predicted body weight",
+      "Plateau pressure \u226430 cmH2O"
+    ],
+    "parameter_values": "Vt 6 ml/kg PBW, plateau pressure \u226430 cmH2O",
+    "individualized": false,
+    "timing": "At enrollment"
+  },
+  "comparator": {
+    "description": "Traditional tidal volume ventilation 12 ml/kg PBW, plateau pressure \u226450 cmH2O",
+    "standard_of_care_flag": true
+  },
+  "outcome_effect": {
+    "outcome_name": "Death before discharge home or before 28 days",
+    "direction": "benefit",
+    "effect_measure": "ARD",
+    "effect_size": -8.8,
+    "ci_lower": null,
+    "ci_upper": null,
+    "p_value": "0.007",
+    "absolute_risk_difference": null,
+    "NNT": null,
+    "events_intervention": 136,
+    "events_comparator": 173,
+    "time_horizon": "Hospital discharge or 28 days"
+  },
+  "quality_score_criteria": {
+    "C1": 1,
+    "C2": null,
+    "C3": null,
+    "C4": 1,
+    "C5": 1,
+    "C6": null,
+    "C7": 1,
+    "C8": 1,
+    "C9": 1
+  }
+}

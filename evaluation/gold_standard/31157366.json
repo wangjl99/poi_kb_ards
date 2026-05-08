@@ -1,0 +1,79 @@
+{
+  "study": {
+    "pmid": "31157366",
+    "journal": "Writing Committee for the PROBESE Collaborative Group of the PROtective VEntilation Network (PROVEnet). Effect of Intraoperative High Positive End-Expiratory Pressure (PEEP) With Recruitment Maneuvers vs Low PEEP on Postoperative Pulmonary Complications in Obese Patients: A Randomized Clinical Trial. JAMA. 2019.",
+    "year": 2019,
+    "study_type": "Prospective multicentre randomized clinical trial",
+    "setting": "perioperative",
+    "NCT": ""
+  },
+  "clinical_question": {
+    "condition": "Postoperative pulmonary complications",
+    "intent": "prevention",
+    "timepoint": "intraoperative and postoperative"
+  },
+  "population_context": {
+    "population_description": "Obese patients (BMI \u226530 kg/m\u00b2) undergoing general anesthesia for elective surgery.",
+    "risk_group": "Obese surgical patients",
+    "surgical_context": "Elective surgical procedures under general anesthesia",
+    "exclusions": "Not reported",
+    "_sample_size": 1976
+  },
+  "intervention": {
+    "name": "High PEEP with recruitment maneuvers",
+    "components": [
+      "High positive end-expiratory pressure (PEEP)",
+      "Recruitment maneuvers"
+    ],
+    "parameter_values": "Not specified in provided text",
+    "individualized": false,
+    "timing": "Intraoperative"
+  },
+  "comparator": {
+    "description": "Low PEEP strategy during intraoperative ventilation",
+    "standard_of_care_flag": true
+  },
+  "outcome_effect": {
+    "outcome_name": "Postoperative pulmonary complications",
+    "direction": "no effect",
+    "effect_measure": "other",
+    "effect_size": -2.3,
+    "ci_lower": -5.9,
+    "ci_upper": 1.4,
+    "p_value": "0.23",
+    "time_horizon": "Postoperative period"
+  },
+  "evidence_appraisal": {
+    "strengths": [
+      "Randomized clinical trial design",
+      "Multicenter collaborative study",
+      "Focus on high-risk obese surgical population"
+    ],
+    "limitations": [
+      "Primary outcome results not detailed in provided text excerpt",
+      "Effect sizes and confidence intervals not reported in provided text"
+    ],
+    "adverse_events": [],
+    "quality_score": 0.0
+  },
+  "applicability": {
+    "generalizability_notes": "Findings apply to obese patients undergoing elective surgery under general anesthesia.",
+    "subgroup_effects": "Not reported"
+  },
+  "provenance": {
+    "pmid": "31157366",
+    "quoted_sentences": {
+      "design": "A Randomized Clinical Trial",
+      "intervention": "Effect of Intraoperative High Positive End-Expiratory Pressure (PEEP) With Recruitment Maneuvers vs Low PEEP",
+      "results": "Not provided in text excerpt",
+      "outcome": "Postoperative Pulmonary Complications in Obese Patients"
+    },
+    "section": "abstract"
+  },
+  "extraction_method": "pdf",
+  "curator_id": "auto-extract",
+  "extraction_date": "2026-02-25T16:37:32.987412",
+  "_paper_number": 6,
+  "_raw_text": "An official website of the United States government Here's how you know\nNotice\nBecause of a lapse in government funding, the information on this website may not be up to date, transactions submitted via the website may not be processed, and the agency may not be able to respond to inquiries until\nappropriations are enacted. The NIH Clinical Center (the research hospital of NIH) is open. For more details about its operating status, please visit cc.nih.gov. Updates regarding government operating status and resumption of\nnormal operations can be found at opm.gov.\nSearch Log in\nSearch PMC Full-Text Archive Search in PMC\nJournal List | User Guide\nACTIONS\nAs a library, NLM provides access to scientific literature. Inclusion in an NLM database does not\nView on\nimply endorsement of, or agreement with, the contents by NLM or the National Institutes of Health.\npublisher site\nLearn more: PMC Disclaimer | PMC Copyright Notice\nCite\nCollections\nPermalink\n\u25b8 JAMA. 2019 Jun 3;321(23):2292\u20132305. doi: 10.1001/jama.2019.7505\nRESOURCES\nEffect of Intraoperative High Positive End-Expiratory Pressure (PEEP)\nWith Recruitment Maneuvers vs Low PEEP on Postoperative Pulmonary\nSimilar articles\nComplications in Obese Patients\nA Randomized Clinical Trial\nCited by other articles\nWriting Committee for the PROBESE Collaborative Group of the PROtective VEntilation Network (PROVEnet) for\nLinks to NCBI Databases\n1 2\nthe Clinical Trial Network of the European Society of Anaesthesiology, Thomas Bluth , Ary Serpa Neto , Marcus J\n3 4 1,\u2709\nSchultz , Paolo Pelosi , Marcelo Gama de Abreu\nON THIS PAGE\n\u25b8 Author information \u25b8 Article notes \u25b8 Copyright and License information\nKey Points\nPMCID: PMC6582260 PMID: 31157366\nAbstract\nSee \"Effect of a Lower vs Higher Positive End-Expiratory Pressure Strategy on Ventilator-Free Days in ICU Patients Introduction\nWithout ARDS\" in volume 324 on page 1. Methods\nSee commentary \"Setting Positive End-Expiratory Pressure in Mechanically Ventilated Patients Undergoing Results\nSurgery.\" with doi: 10.1001/jama.2019.7540.\nDiscussion\nThis article has been corrected. See JAMA. 2019 Nov 12;322(18):1829.\nConclusions",
+  "_title": "Effect of Intraoperative High Positive End-Expiratory Pressure (PEEP) With Recruitment Maneuvers vs Low PEEP on Postoperative Pulmonary Complications in Obese Patients: A Randomized Clinical Trial"
+}

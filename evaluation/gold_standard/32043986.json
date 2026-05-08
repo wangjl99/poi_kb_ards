@@ -1,0 +1,89 @@
+{
+  "study": {
+    "pmid": "32043986",
+    "journal": "Villar J, Ferrando C, Martínez D, et al. Dexamethasone treatment for the acute respiratory distress syndrome: a multicentre, randomised controlled trial. Lancet Respir Med. 2020;8:267-276.",
+    "year": 2020,
+    "study_type": "Prospective multicentre RCT",
+    "setting": "ICU",
+    "NCT": "NCT01731795"
+  },
+  "clinical_question": {
+    "condition": "ARDS (Acute Respiratory Distress Syndrome)",
+    "intent": "treatment",
+    "timepoint": "ICU"
+  },
+  "population_context": {
+    "population_description": "Mechanically ventilated patients aged 18 years or older with established moderate-to-severe ARDS (PaO2/FiO2 ≤200 mm Hg on PEEP ≥10 cm H2O and FiO2 ≥0.5 at 24 hours after ARDS onset) enrolled across 17 ICUs in teaching hospitals in Spain.",
+    "risk_group": "Established moderate-to-severe ARDS requiring mechanical ventilation",
+    "surgical_context": "Non-surgical / ICU",
+    "exclusions": "Brain death, terminal-stage cancer or other disease, do-not-resuscitate status, treatment with corticosteroids or immunosuppressive drugs, enrollment in another experimental treatment protocol, severe chronic obstructive pulmonary disease, congestive heart failure, pregnancy or active lactation.",
+    "_sample_size": 277
+  },
+  "intervention": {
+    "name": "Intravenous dexamethasone",
+    "components": [
+      "Intravenous dexamethasone 20 mg once daily from day 1 to day 5",
+      "Intravenous dexamethasone 10 mg once daily from day 6 to day 10",
+      "Lung-protective mechanical ventilation"
+    ],
+    "parameter_values": "20 mg daily for 5 days, then 10 mg daily for 5 days (maximum 10 days or until extubation if occurring before day 10)",
+    "individualized": false,
+    "timing": "Started at 24 hours after ARDS onset"
+  },
+  "comparator": {
+    "description": "Continued routine intensive care without dexamethasone, with lung-protective mechanical ventilation",
+    "standard_of_care_flag": true
+  },
+  "outcome_effect": {
+    "outcome_name": "Number of ventilator-free days at 28 days (days alive and free from mechanical ventilation from day of randomisation to day 28)",
+    "direction": "benefit",
+    "effect_measure": "ARD",
+    "effect_size": 4.8,
+    "ci_lower": 2.57,
+    "ci_upper": 7.03,
+    "p_value": "<0.0001",
+    "time_horizon": "28 days"
+  },
+  "evidence_appraisal": {
+    "strengths": [
+      "Multicentre randomised controlled trial with allocation concealment maintained at all sites",
+      "Intention-to-treat analysis performed",
+      "Enrolled 277 of 314 planned patients (88%)",
+      "Dual primary outcomes including both ventilator-free days and 60-day mortality",
+      "Standardized lung-protective ventilation used in both groups"
+    ],
+    "limitations": [
+      "Trial stopped early due to low enrolment rate before reaching full planned sample size",
+      "All sites located in Spain, potentially limiting generalizability",
+      "Study enrolled patients with moderate-to-severe ARDS only; findings may not apply to mild ARDS",
+      "No stratification by ARDS etiology reported"
+    ],
+    "adverse_events": [
+      "Hyperglycaemia in the ICU (105 [76%] in dexamethasone group vs 97 [70%] in control group)",
+      "New infections in the ICU (eg, pneumonia or sepsis; 33 [24%] vs 35 [25%])",
+      "Barotrauma (14 [10%] vs 10 [7%])",
+      "No significant difference in overall adverse event rates between groups"
+    ],
+    "quality_score": 0.0
+  },
+  "applicability": {
+    "generalizability_notes": "Findings apply to mechanically ventilated patients with established moderate-to-severe ARDS within 24 hours of onset receiving lung-protective ventilation in ICU settings. Applicability to mild ARDS, pediatric populations, or non-mechanically ventilated patients is uncertain. Results are from Spanish teaching hospitals and may have limited generalizability to other healthcare settings.",
+    "subgroup_effects": "Not reported"
+  },
+  "provenance": {
+    "pmid": "32043986",
+    "quoted_sentences": {
+      "design": "This trial was an investigator-initiated, multicentre, randomised controlled trial done in a network of 17 intensive care units (ICUs) in teaching hospitals across Spain.",
+      "intervention": "Patients in the dexamethasone group received an intravenous dose of 20 mg once daily from day 1 to day 5, which was reduced to 10 mg once daily from day 6 to day 10.",
+      "results": "The mean number of ventilator-free days was higher in the dexamethasone group than in the control group (between-group difference 4·8 days [95% CI 2·57 to 7·03]; p<0·0001). At 60 days, 29 (21%) patients in the dexamethasone group and 50 (36%) patients in the control group had died (between-group difference –15·3% [–25·9 to –4·9]; p=0·0047).",
+      "outcome": "Early administration of dexamethasone could reduce duration of mechanical ventilation and overall mortality in patients with established moderate-to-severe ARDS."
+    },
+    "section": "full-text"
+  },
+  "extraction_method": "pdf",
+  "curator_id": "auto-extract",
+  "extraction_date": "2026-02-25T16:37:56.155981",
+  "_paper_number": 8,
+  "_raw_text": "Articles\nDexamethasone treatment for the acute respiratory distress\nsyndrome: a multicentre, randomised controlled trial\nJesús Villar, Carlos Ferrando, Domingo Martínez, Alfonso Ambrós, Tomás Muñoz, Juan A Soler, Gerardo Aguilar, Francisco Alba,\nElena González-Higueras, Luís A Conesa, Carmen Martín-Rodríguez, Francisco J Díaz-Domínguez, Pablo Serna-Grande, Rosana Rivas, José Ferreres,\nJavier Belda, Lucía Capilla, Alec Tallet, José M Añón, Rosa L Fernández, Jesús M González-Martín for the dexamethasone in ARDS network*\nSummary\nBackground There is no proven specific pharmacological treatment for patients with the acute respiratory distress Lancet Respir Med 2020;\nsyndrome (ARDS). The efficacy of corticosteroids in ARDS remains controversial. We aimed to assess the effects of 8: 267–76\ndexamethasone in ARDS, which might change pulmonary and systemic inflammation and result in a decrease in Published Online\nduration of mechanical ventilation and mortality. February 7, 2020\nhttps://doi.org/10.1016/\nS2213-2600(19)30417-5\nMethods We did a multicentre, randomised controlled trial in a network of 17 intensive care units (ICUs) in teaching\nSee Comment page 220\nhospitals across Spain in patients with established moderate-to-severe ARDS (defined by a ratio of partial pressure of\n*Full list of investigators of the\narterial oxygen to the fraction of inspired oxygen of 200 mm Hg or less assessed with a positive end-expiratory DEXA-ARDS Network is in the\npressure of 10 cm HO or more and FiO of 0·5 or more at 24 h after ARDS onset). Patients with brain death, appendix\n2 2\nterminal-stage disease, or receiving corticosteroids or immunosuppressive drugs were excluded. Eligible patients Centro de Investigación\nwere randomly assigned based on balanced treatment assignments with a computerised randomisation allocation Biomédica en Red de\nEnfermedades Respiratorias,\nsequence using blocks of 10 opaque, sealed envelopes to receive immediate treatment with dexamethasone or\nInstituto de Salud Carlos III,\ncontinued routine intensive care (control group). Patients in the dexamethasone group received an intravenous dose Madrid, Spain (J Villar MD,\nof 20 mg once daily from day 1 to day 5, which was reduced to 10 mg once daily from day 6 to day 10. Patients in both C Ferrando MD, J M Añón MD,\ngroups were ventilated with lung-protective mechanical ventilation. Allocation concealment was maintained at all R L Fernández MSc);\nDepartment of Anesthesiology\nsites during the trial. Primary outcome was the number of ventilator-free days at 28 days, defined as the number of\n& Critical Care, Hospital Clinic,\ndays alive and free from mechanical ventilation from day of randomisation to day 28. Secondary outcome was all- Barcelona, Spain (C Ferrando);\ncause mortality 60 days after randomisation. All analyses were done according to the intention-to-treat principle. This Multidisciplinary Organ\nstudy is registered with ClinicalTrials.gov, NCT01731795. Dysfunction Evaluation\nResearch Network, R",
+  "_title": "Dexamethasone treatment for the acute respiratory distress syndrome: a multicentre, randomised controlled trial"
+}

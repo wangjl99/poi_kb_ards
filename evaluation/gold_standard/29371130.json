@@ -1,0 +1,90 @@
+{
+  "study": {
+    "pmid": "29371130",
+    "journal": "Ferrando C et al. Individualised perioperative open-lung approach versus standard protective ventilation in abdominal surgery (iPROVE): a randomised controlled trial. Lancet Respir Med. 2018.",
+    "year": 2018,
+    "study_type": "Prospective multicentre randomised controlled trial",
+    "setting": "perioperative",
+    "NCT": "NCT02158923"
+  },
+  "clinical_question": {
+    "condition": "Postoperative pulmonary and systemic complications",
+    "intent": "prevention",
+    "timepoint": "perioperative"
+  },
+  "population_context": {
+    "population_description": "Patients aged 18 years or older scheduled for abdominal surgery with expected duration longer than 2 hours, intermediate-to-high risk of postoperative pulmonary complications, and body-mass index less than 35 kg/m².",
+    "risk_group": "Intermediate-to-high risk for postoperative pulmonary complications undergoing major abdominal surgery",
+    "surgical_context": "Abdominal surgery",
+    "exclusions": "Age <18 years, BMI ≥35 kg/m², low-risk patients, expected surgical duration <2 hours",
+    "_sample_size": 967
+  },
+  "intervention": {
+    "name": "Individualised perioperative open-lung approach (OLA)",
+    "components": [
+      "Low tidal volume ventilation",
+      "Positive end-expiratory pressure (PEEP)",
+      "Lung recruitment manoeuvre",
+      "Individualised PEEP based on respiratory system dynamic compliance (Cdyn)",
+      "Individualised postoperative continuous positive airway pressure (CPAP) or standard postoperative oxygen therapy"
+    ],
+    "parameter_values": "Low tidal volume plus PEEP; PEEP individualised after lung recruitment manoeuvre to optimise Cdyn",
+    "individualized": true,
+    "timing": "Intraoperative and postoperative (first 7 days)"
+  },
+  "comparator": {
+    "description": "Standard intraoperative lung-protective ventilation plus standard postoperative oxygen therapy (STD–O)",
+    "standard_of_care_flag": true
+  },
+  "outcome_effect": {
+    "outcome_name": "Composite of pulmonary and systemic complications during the first 7 postoperative days",
+    "direction": "no effect",
+    "effect_measure": "RR",
+    "effect_size": -5.0,
+    "ci_lower": null,
+    "ci_upper": null,
+    "p_value": "0.25",
+    "time_horizon": "7 postoperative days"
+  },
+  "evidence_appraisal": {
+    "strengths": [
+      "Large multicentre prospective randomised controlled trial across 21 teaching hospitals",
+      "Four-arm design allowing comparison of multiple individualised and standard strategies",
+      "Modified intention-to-treat analysis with 967 patients",
+      "Masking of patients after 24 hours with independent data assessment",
+      "First study to continuously individualise ventilatory strategy throughout intraoperative and postoperative period",
+      "Standardised protocols across multiple sites"
+    ],
+    "limitations": [
+      "No significant differences between groups despite hypothesis of benefit",
+      "Effect sizes smaller than expected",
+      "All enrolled patients had healthy lungs at baseline",
+      "Spanish teaching hospitals only; limited generalisability",
+      "Investigators not masked in operating and immediate postoperative rooms",
+      "Intermediate-to-high risk patients selected; results may not apply to low-risk patients",
+      "Intraoperative PEEP increased in only 14% of standard groups due to hypoxaemia"
+    ],
+    "adverse_events": [],
+    "quality_score": 0.0
+  },
+  "applicability": {
+    "generalizability_notes": "Findings apply to patients with healthy lungs undergoing major abdominal surgery with intermediate-to-high risk for postoperative complications. Results may not generalise to critically ill patients, patients with severe lung disease, those with BMI ≥35 kg/m², or low-risk surgical patients. Spanish healthcare setting may limit international applicability.",
+    "subgroup_effects": "Not reported"
+  },
+  "provenance": {
+    "pmid": "29371130",
+    "quoted_sentences": {
+      "design": "We did this prospective, multicentre, randomised controlled trial in 21 teaching hospitals in Spain. Patients were randomly assigned (1:1:1:1) online to receive one of four lung-protective ventilation strategies using low tidal volume plus positive end-expiratory pressure (PEEP).",
+      "intervention": "Patients were randomly assigned (1:1:1:1) online to receive one of four lung-protective ventilation strategies using low tidal volume plus positive end-expiratory pressure (PEEP): open-lung approach (OLA)–iCPAP (individualised intraoperative ventilation [individualised PEEP after a lung recruitment manoeuvre] plus individualised postoperative continuous positive airway pressure [CPAP]), OLA–CPAP (intraoperative individualised ventilation plus postoperative CPAP), STD–CPAP (standard intraoperative ventilation plus postoperative CPAP), or STD–O (standard intraoperative ventilation plus standard postoperative oxygen therapy).",
+      "results": "Risk of pulmonary and systemic complications did not differ for patients in OLA–iCPAP (110 [46%] of 241, relative risk 0·89 [95% CI 0·74–1·07; p=0·25]), OLA–CPAP (111 [47%] of 238, 0·91 [0·76–1·09; p=0·35]), or STD–CPAP groups (118 [48%] of 244, 0·95 [0·80–1·14; p=0·65]) when compared with patients in the STD–O 2 group (125 [51%] of 244).",
+      "outcome": "In patients who have major abdominal surgery, the different perioperative open lung approaches tested in this study did not reduce the risk of postoperative complications when compared with standard lung-protective mechanical ventilation."
+    },
+    "section": "abstract"
+  },
+  "extraction_method": "pdf",
+  "curator_id": "auto-extract",
+  "extraction_date": "2026-02-25T16:36:42.198395",
+  "_paper_number": 3,
+  "_raw_text": "Articles\nIndividualised perioperative open-lung approach versus\nstandard protective ventilation in abdominal surgery\n(iPROVE): a randomised controlled trial\nCarlos Ferrando, Marina Soro, Carmen Unzueta, Fernando Suarez-Sipmann, Jaume Canet, Julián Librero, Natividad Pozo, Salvador Peiró,\nAlicia Llombart, Irene León, Inmaculada India, Cesar Aldecoa, Oscar Díaz-Cambronero, David Pestaña, Francisco J Redondo, Ignacio Garutti,\nJaume Balust, Jose I García, Maite Ibáñez, Manuel Granell, Aurelio Rodríguez, Lucía Gallego, Manuel de la Matta, Rafael Gonzalez, Andrea Brunelli,\nJavier García, Lucas Rovira, Francisco Barrios, Vicente Torres, Samuel Hernández, Estefanía Gracia, Marta Giné, María García, Nuria García,\nLisset Miguel, Sergio Sánchez, Patricia Piñeiro, Roger Pujol, Santiago García-del-Valle, José Valdivia, María J Hernández, Oto Padrón, Ana Colás,\nJaume Puig, Gonzalo Azparren, Gerardo Tusman, Jesús Villar, Javier Belda, on behalf of the Individualized PeRioperative Open-lung VEntilation\n(iPROVE) Network*\nSummary\nBackground The effects of individualised perioperative lung-protective ventilation (based on the open-lung approach Lancet Respir Med 2018;\n[OLA]) on postoperative complications is unknown. We aimed to investigate the effects of intraoperative and 6: 193–203\npostoperative ventilatory management in patients scheduled for abdominal surgery, compared with standard Published Online\nprotective ventilation. January 19, 2018\nhttp://dx.doi.org/10.1016/\nS2213-2600(18)30024-9\nMethods We did this prospective, multicentre, randomised controlled trial in 21 teaching hospitals in Spain. We\nSee Comment page 163\nenrolled patients who were aged 18 years or older, were scheduled to have abdominal surgery with an expected time\n*Additional investigators are\nof longer than 2 h, had intermediate-to-high-risk of developing postoperative pulmonary complications, and who listed in the appendix\nhad a body-mass index less than 35 kg/m². Patients were randomly assigned (1:1:1:1) online to receive one of four\nDepartment of Anesthesiology\nlung-protective ventilation strategies using low tidal volume plus positive end-expiratory pressure (PEEP): open-lung & Critical Care, Hospital Clínico\napproach (OLA)–iCPAP (individualised intraoperative ventilation [individualised PEEP after a lung recruitment Universitario, Valencia, Spain\n(C Ferrando PhD, M Soro PhD,\nmanoeuvre] plus individualised postoperative continuous positive airway pressure [CPAP]), OLA–CPAP\nI León PhD, E Gracia MD,\n(intraoperative individualised ventilation plus postoperative CPAP), STD–CPAP (standard intraoperative ventilation\nJ Puig PhD, J Belda PhD); CIBER\nplus postoperative CPAP), or STD–O (standard intraoperative ventilation plus standard postoperative oxygen de Enfermedades Respiratorias,\n2\ntherapy). Patients were masked to treatment allocation. Investigators were not masked in the operating and Instituto de Salud Carlos III,\nMadrid, Spain (C Ferrando,\npostoperative rooms; after 24 h, data were given ",
+  "_title": "Individualised perioperative open-lung approach versus standard protective ventilation in abdominal surgery (iPROVE): a randomised controlled trial"
+}

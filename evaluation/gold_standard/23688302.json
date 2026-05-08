@@ -1,0 +1,60 @@
+{
+  "study": {
+    "pmid": "23688302",
+    "journal": "The New England Journal of Medicine. 2013;368(23):2159-2168.",
+    "year": 2013,
+    "study_type": "Randomized controlled trial",
+    "setting": "ICU",
+    "NCT": "NCT00527813"
+  },
+  "clinical_question": {
+    "condition": "Severe Acute Respiratory Distress Syndrome",
+    "intent": "treatment",
+    "timepoint": "ICU"
+  },
+  "population_context": {
+    "population_description": "Intubated patients with severe ARDS, PaO2:FiO2 < 150 mmHg with PEEP \u22655 cmH2O, receiving tidal volumes ~6 ml/kg PBW for less than 36 hours.",
+    "risk_group": "Severe ARDS, intubated, PaO2:FiO2 <150",
+    "surgical_context": "Non-surgical / ICU",
+    "_sample_size": 466
+  },
+  "intervention": {
+    "name": "Prone positioning",
+    "components": [
+      "Prone positioning \u226516 hours/day",
+      "Early initiation <36 hours after ARDS onset"
+    ],
+    "parameter_values": "\u226516 consecutive hours per day in prone position",
+    "individualized": false,
+    "timing": "Within 36 hours of ARDS onset"
+  },
+  "comparator": {
+    "description": "Supine positioning",
+    "standard_of_care_flag": true
+  },
+  "outcome_effect": {
+    "outcome_name": "28-day all-cause mortality",
+    "direction": "benefit",
+    "effect_measure": "ARD",
+    "effect_size": -16.8,
+    "ci_lower": null,
+    "ci_upper": null,
+    "p_value": "<0.001",
+    "absolute_risk_difference": -16.8,
+    "NNT": null,
+    "events_intervention": 38,
+    "events_comparator": 75,
+    "time_horizon": "28 days"
+  },
+  "quality_score_criteria": {
+    "C1": 1,
+    "C2": 1,
+    "C3": null,
+    "C4": 1,
+    "C5": 1,
+    "C6": 1,
+    "C7": 1,
+    "C8": 1,
+    "C9": 1
+  }
+}

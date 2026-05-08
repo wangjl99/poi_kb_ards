@@ -1,0 +1,92 @@
+{
+  "study": {
+    "pmid": "31112383",
+    "journal": "The New England Journal of Medicine. 2019;380(21):1997-2008.",
+    "year": 2019,
+    "study_type": "Prospective multicentre RCT",
+    "setting": "ICU",
+    "NCT": "NCT02509078"
+  },
+  "clinical_question": {
+    "condition": "Acute Respiratory Distress Syndrome (ARDS)",
+    "intent": "treatment",
+    "timepoint": "ICU"
+  },
+  "population_context": {
+    "population_description": "Patients with moderate-to-severe ARDS defined by a ratio of partial pressure of arterial oxygen to fraction of inspired oxygen of less than 150 mm Hg with positive end-expiratory pressure of at least 8 cm of water, undergoing mechanical ventilation through an endotracheal tube, enrolled early after onset (median 7.6 hours).",
+    "risk_group": "Moderate-to-severe ARDS patients on mechanical ventilation",
+    "surgical_context": "Non-surgical / ICU",
+    "exclusions": "Not reported in provided text",
+    "_sample_size": 1006
+  },
+  "intervention": {
+    "name": "Early continuous neuromuscular blockade with deep sedation",
+    "components": [
+      "48-hour continuous infusion of cisatracurium",
+      "Intravenous bolus of 15 mg cisatracurium followed by continuous infusion",
+      "Concomitant deep sedation",
+      "Low tidal volume ventilation",
+      "High PEEP strategy"
+    ],
+    "parameter_values": "15 mg intravenous bolus of cisatracurium, then 37.5 mg per hour continuous infusion for 48 hours; deep sedation targets (Richmond Agitation-Sedation Scale −2 to −3, Riker 1-2, or Ramsay 4-6); low tidal volume ventilation within 2 hours after randomization; high PEEP strategy for up to 5 days",
+    "individualized": false,
+    "timing": "Within 4 hours after randomization in patients not already under deep sedation; started early after ARDS onset (median 7.6 hours)"
+  },
+  "comparator": {
+    "description": "Usual care without routine neuromuscular blockade and with lighter sedation targets (Richmond Agitation-Sedation Scale 0 to −1, Riker 3-4, or Ramsay 2-3); same mechanical ventilation strategies including low tidal volume and high PEEP",
+    "standard_of_care_flag": true
+  },
+  "outcome_effect": {
+    "outcome_name": "In-hospital death from any cause at 90 days",
+    "direction": "no effect",
+    "effect_measure": "ARD",
+    "effect_size": -0.3,
+    "ci_lower": -6.4,
+    "ci_upper": 5.9,
+    "p_value": "0.93",
+    "time_horizon": "90 days (in-hospital)"
+  },
+  "evidence_appraisal": {
+    "strengths": [
+      "Prospective multicenter randomized controlled trial design",
+      "Large sample size of 1,006 patients",
+      "Pre-specified statistical analysis plan published before data analysis",
+      "Blinded outcome assessors at 3, 6, and 12 months",
+      "Standardized mechanical ventilation protocols in both groups",
+      "Central institutional review board and data safety monitoring board oversight"
+    ],
+    "limitations": [
+      "Trial stopped at second interim analysis for futility, potentially reducing statistical power",
+      "Unblinded study design may introduce bias",
+      "Lighter sedation targets in control group differ from deep sedation in ACURASYS trial, limiting comparability",
+      "Neuromuscular blockade dosing not titrated to peripheral nerve stimulation in intervention group",
+      "Limited long-term neuromuscular outcome data collection"
+    ],
+    "adverse_events": [
+      "Patients in intervention group were less physically active while in hospital",
+      "More adverse cardiovascular events in intervention group compared to control group",
+      "Increased recall of paralysis in intervention group (assessed with modified Brice questionnaire)"
+    ],
+    "quality_score": 0.0
+  },
+  "applicability": {
+    "generalizability_notes": "Findings apply to patients with moderate-to-severe ARDS on mechanical ventilation treated with high PEEP strategies. Results may not generalize to milder ARDS, non-ventilated patients, or settings using different ventilation approaches. Findings represent current practice with lighter sedation targets rather than the deep sedation strategy of prior ACURASYS trial.",
+    "subgroup_effects": "Not reported"
+  },
+  "provenance": {
+    "pmid": "31112383",
+    "quoted_sentences": {
+      "design": "We designed the ROSE trial to be consistent with certain elements of the ACURASYS trial. Similarities included the use of the same neuromuscular blocking agent (cisatracurium) with the same dosing regimen and duration of treatment. A key difference was our use of lighter sedation targets in the control group to be consistent with current practice recommendations.",
+      "intervention": "We randomly assigned patients in a 1:1 ratio to receive 48 hours of continuous neuromuscular blockade with concomitant deep sedation (intervention group) or to receive usual care without routine neuromuscular blockade and with lighter sedation targets (control group). Patients in the intervention group who were not under deep sedation at baseline were deeply sedated within 4 hours after randomization. Subsequently, patients in this group received an intravenous bolus of 15 mg of cisatracurium, followed by a continuous infusion of 37.5 mg per hour for 48 hours.",
+      "results": "At 90 days, 213 patients (42.5%) in the intervention group and 216 (42.8%) in the control group had died before hospital discharge (between-group difference, −0.3 percentage points; 95% confidence interval, −6.4 to 5.9; P = 0.93).",
+      "outcome": "Among patients with moderate-to-severe ARDS who were treated with a strategy involving a high PEEP, there was no significant difference in mortality at 90 days between patients who received an early and continuous cisatracurium infusion and those who were treated with a usual-care approach with lighter sedation targets."
+    },
+    "section": "abstract | methods | results"
+  },
+  "extraction_method": "pdf",
+  "curator_id": "auto-extract",
+  "extraction_date": "2026-02-25T16:37:15.935691",
+  "_paper_number": 5,
+  "_raw_text": "new england\nThe\njournal medicine\nof\nestablished in 1812 May 23, 2019 vol. 380 no. 21\nEarly Neuromuscular Blockade in the Acute Respiratory\nDistress Syndrome\nThe National Heart, Lung, and Blood Institute PETAL Clinical Trials Network*\nabstract\nBACKGROUND\nThe benefits of early continuous neuromuscular blockade in patients with acute The members of the writing committee\nrespiratory distress syndrome (ARDS) who are receiving mechanical ventilation (Marc Moss, M.D., David T. Huang,\nM.D., M.P.H., Roy G. Brower, M.D., Niall\nremain unclear.\nD. Ferguson, M.D., Adit A. Ginde, M.D.,\nM.P.H., M.N. Gong, M.D., Colin K. Gris-\nMETHODS\nsom, M.D., Stephanie Gundel, M.S.,\nWe randomly assigned patients with moderate-to-severe ARDS (defined by a Douglas Hayden, Ph.D., R. Duncan Hite,\nratio of the partial pressure of arterial oxygen to the fraction of inspired oxygen M.D., Peter C. Hou, M.D., Catherine L.\nHough, M.D., Theodore J. Iwashyna, M.D.,\nof <150 mm Hg with a positive end-expiratory pressure [PEEP] of ≥8 cm of water)\nPh.D., Akram Khan, M.D., Kathleen D. Liu,\nto a 48-hour continuous infusion of cisatracurium with concomitant deep sedation M.D., Ph.D., Daniel Talmor, M.D., M.P.H.,\n(intervention group) or to a usual-care approach without routine neuromuscular B. Taylor Thompson, M.D., Christine A.\nUlysse, M.S., Donald M. Yealy, M.D., and\nblockade and with lighter sedation targets (control group). The same mechanical-\nDerek C. Angus, M.D., M.P.H.) assume\nventilation strategies were used in both groups, including a strategy involving a responsibility for the overall content and\nhigh PEEP. The primary end point was in-hospital death from any cause at 90 days. integrity of this article. The affiliations of\nthe members of the writing committee are\nRESULTS listed in the Appendix. Address reprint re-\nquests to Dr. Angus at the University of\nThe trial was stopped at the second interim analysis for futility. We enrolled 1006\nPittsburgh, 3550 Terrace St., Pittsburgh,\npatients early after the onset of moderate-to-severe ARDS (median, 7.6 hours after PA 15261, or at angusdc@ upmc . edu.\nonset). During the first 48 hours after randomization, 488 of the 501 patients\n*A full list of the investigators in the Re-\n(97.4%) in the intervention group started a continuous infusion of cisatracurium evaluation of Systemic Early Neuro-\n(median duration of infusion, 47.8 hours; median dose, 1807 mg), and 86 of the muscular Blockade (ROSE) trial and the\nPrevention and Early Treatment of\n505 patients (17.0%) in the control group received a neuromuscular blocking agent\nAcute Lung Injury (PETAL) network is\n(median dose, 38 mg). At 90 days, 213 patients (42.5%) in the intervention group provided in the Supplementary Appen-\nand 216 (42.8%) in the control group had died before hospital discharge (between- dix, available at NEJM.org.\ngroup difference, −0.3 percentage points; 95% confidence interval, −6.4 to 5.9; This article was published on May 19, 2019,\nP = 0.93). While in the hospital, patients",
+  "_title": "Early Neuromuscular Blockade in the Acute Respiratory Distress Syndrome"
+}

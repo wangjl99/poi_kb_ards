@@ -1,0 +1,89 @@
+{
+  "study": {
+    "pmid": "32160661",
+    "journal": "Barrot L, Asfar P, Mauny F, et al. Liberal or Conservative Oxygen Therapy for Acute Respiratory Distress Syndrome. N Engl J Med. 2020;382:999-1008.",
+    "year": 2020,
+    "study_type": "Prospective multicentre randomized controlled trial",
+    "setting": "ICU",
+    "NCT": "NCT02713451"
+  },
+  "clinical_question": {
+    "condition": "Acute Respiratory Distress Syndrome (ARDS)",
+    "intent": "treatment",
+    "timepoint": "ICU"
+  },
+  "population_context": {
+    "population_description": "Patients with ARDS who underwent intubation and received mechanical ventilation for less than 12 hours, with a PaO2:FiO2 ratio of 300 mm Hg or less and bilateral opacities on chest imaging.",
+    "risk_group": "Mechanically ventilated patients with ARDS",
+    "surgical_context": "Non-surgical / ICU",
+    "exclusions": "Long-term oxygen therapy or noninvasive ventilation at home, cardiac arrest, traumatic brain injury, or cranial hypertension as reason for ICU hospitalization",
+    "_sample_size": 205
+  },
+  "intervention": {
+    "name": "Conservative oxygen therapy",
+    "components": [
+      "Target PaO2 between 55 and 70 mm Hg",
+      "Target SpO2 between 88 and 92%",
+      "FiO2 adjustment by 0.05 if difference from target less than 5 mm Hg, or by 0.10 if difference greater than 5 mm Hg",
+      "SpO2 monitoring every 5 minutes with FiO2 modifications until target reached"
+    ],
+    "parameter_values": "PaO2 55-70 mm Hg; SpO2 88-92%; FiO2 adjustments of 0.05-0.10 based on deviation from target",
+    "individualized": true,
+    "timing": "First 7 days of invasive mechanical ventilation or until extubation, whichever occurred earlier"
+  },
+  "comparator": {
+    "description": "Liberal oxygen therapy with target PaO2 between 90 and 105 mm Hg and SpO2 ≥96%",
+    "standard_of_care_flag": true
+  },
+  "outcome_effect": {
+    "outcome_name": "Death from any cause at 28 days",
+    "direction": "harm",
+    "effect_measure": "ARD",
+    "effect_size": 7.8,
+    "ci_lower": -4.8,
+    "ci_upper": 20.6,
+    "p_value": "NR",
+    "time_horizon": "28 days"
+  },
+  "evidence_appraisal": {
+    "strengths": [
+      "Multicenter randomized controlled trial with prospective design",
+      "Stratified randomization by center, age, and severity of respiratory failure",
+      "Standardized mechanical ventilation protocol applied to both groups",
+      "Independent data and safety monitoring board oversight",
+      "Assessment of multiple secondary outcomes including organ failure and complications"
+    ],
+    "limitations": [
+      "Trial was prematurely stopped after enrollment of only 205 patients (vs planned 850), reducing statistical power",
+      "Open-label design due to inability to mask oxygen therapy and monitoring parameters",
+      "Early termination due to safety concerns limits ability to assess long-term efficacy",
+      "Small sample size limits generalizability",
+      "Imbalance in mortality at 90 days suggests potential harm from conservative strategy"
+    ],
+    "adverse_events": [
+      "Five mesenteric ischemic events occurred in the conservative-oxygen group",
+      "Higher 90-day mortality in conservative-oxygen group (44.4%) compared to liberal-oxygen group (30.4%)"
+    ],
+    "quality_score": 0.0
+  },
+  "applicability": {
+    "generalizability_notes": "Findings apply to patients with ARDS requiring mechanical ventilation for less than 12 hours in ICU settings. The safety concerns identified, particularly mesenteric ischemia and increased 90-day mortality, suggest conservative oxygenation may not be appropriate for early ARDS management despite theoretical rationale.",
+    "subgroup_effects": "Not reported"
+  },
+  "provenance": {
+    "pmid": "32160661",
+    "quoted_sentences": {
+      "design": "In this multicenter, randomized trial, we assigned patients with ARDS to receive either conservative oxygen therapy (target Pao2, 55 to 70 mm Hg; oxygen saturation as measured by pulse oximetry [Spo2], 88 to 92%) or liberal oxygen therapy (target Pao2, 90 to 105 mm Hg; Spo2, ≥96%) for 7 days.",
+      "intervention": "Patients were assigned to either the liberal-oxygen group (Pao2 target between 90 and 105 mm Hg) or the conservative-oxygen group (Pao2 target between 55 and 70 mm Hg) over the first 7 days of invasive mechanical ventilation or until extubation, if the latter was performed earlier.",
+      "results": "At day 28, a total of 34 of 99 patients (34.3%) in the conservative-oxygen group and 27 of 102 patients (26.5%) in the liberal-oxygen group had died (difference, 7.8 percentage points; 95% confidence interval [CI], −4.8 to 20.6). At day 90, 44.4% of the patients in the conservative-oxygen group and 30.4% of the patients in the liberal-oxygen group had died (difference, 14.0 percentage points; 95% CI, 0.7 to 27.2). Five mesenteric ischemic events occurred in the conservative-oxygen group.",
+      "outcome": "Among patients with ARDS, early exposure to a conservative-oxygenation strategy with a Pao2 between 55 and 70 mm Hg did not increase survival at 28 days."
+    },
+    "section": "abstract"
+  },
+  "extraction_method": "pdf",
+  "curator_id": "auto-extract",
+  "extraction_date": "2026-02-25T16:38:10.185244",
+  "_paper_number": 9,
+  "_raw_text": "The new england journal of medicine\nOriginal Article\nLiberal or Conservative Oxygen Therapy\nfor Acute Respiratory Distress Syndrome\nLoic Barrot, M.D., Pierre Asfar, M.D., Ph.D., Frederic Mauny, M.D., Ph.D.,\nHadrien Winiszewski, M.D., Florent Montini, M.D., Julio Badie, M.D.,\nJean-Pierre Quenot, M.D., Ph.D., Sebastien Pili-Floury, M.D., Ph.D.,\nBelaid Bouhemad, M.D., Ph.D., Guillaume Louis, M.D.,\nBertrand Souweine, M.D., Ph.D., Olivier Collange, M.D., Ph.D.,\nJulien Pottecher, M.D., Ph.D., Bruno Levy, M.D., Ph.D., Marc Puyraveau, M.Sc.,\nLucie Vettoretti, Ph.D., Jean-Michel Constantin, M.D., Ph.D.,\nand Gilles Capellier, M.D., Ph.D., for the LOCO Investigators\n2\nand REVA Research Network*\nABSTRACT\nBACKGROUND\nIn patients with acute respiratory distress syndrome (ARDS), the National Heart, The authors’ affiliations are listed in the\nLung, and Blood Institute ARDS Clinical Trials Network recommends a target Appendix. Address reprint requests to\nDr. Capellier at Reanimation Medicale,\npartial pressure of arterial oxygen (Pao\n2\n) between 55 and 80 mm Hg. Prospective\nCentre Hospitalier Régional Universitaire\nvalidation of this range in patients with ARDS is lacking. We hypothesized that Besançon, Blvd. Fleming, 25000 Besançon,\ntargeting the lower limit of this range would improve outcomes in patients France, or at gilles . capellier@ univ-fcomte . fr.\nwith ARDS. *A complete list of investigators in the\nLOCO trial is provided in the Supple-\n2\nMETHODS mentary Appendix, available at NEJM.org.\nIn this multicenter, randomized trial, we assigned patients with ARDS to receive\nN Engl J Med 2020;382:999-1008.\neither conservative oxygen therapy (target Pao, 55 to 70 mm Hg; oxygen saturation DOI: 10.1056/NEJMoa1916431\n2\nas measured by pulse oximetry [Spo], 88 to 92%) or liberal oxygen therapy (target Copyright © 2020 Massachusetts Medical Society.\n2\nPao, 90 to 105 mm Hg; Spo, ≥96%) for 7 days. The same mechanical-ventilation\n2 2\nstrategies were used in both groups. The primary outcome was death from any\ncause at 28 days.\nRESULTS\nAfter the enrollment of 205 patients, the trial was prematurely stopped by the data\nand safety monitoring board because of safety concerns and a low likelihood of a\nsignificant difference between the two groups in the primary outcome. Four pa-\ntients who did not meet the eligibility criteria were excluded. At day 28, a total of\n34 of 99 patients (34.3%) in the conservative-oxygen group and 27 of 102 patients\n(26.5%) in the liberal-oxygen group had died (difference, 7.8 percentage points;\n95% confidence interval [CI], −4.8 to 20.6). At day 90, 44.4% of the patients in the\nconservative-oxygen group and 30.4% of the patients in the liberal-oxygen group\nhad died (difference, 14.0 percentage points; 95% CI, 0.7 to 27.2). Five mesenteric\nischemic events occurred in the conservative-oxygen group.\nCONCLUSIONS\nAmong patients with ARDS, early exposure to a conservative-oxygenation strategy\nwith a Pao between 55 and 70 mm Hg did not increase survival at 2",
+  "_title": "Liberal or Conservative Oxygen Therapy for Acute Respiratory Distress Syndrome"
+}

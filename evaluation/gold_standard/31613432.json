@@ -1,0 +1,85 @@
+{
+  "study": {
+    "pmid": "31613432",
+    "journal": "ICU-ROX Investigators and the Australian and New Zealand Intensive Care Society Clinical Trials Group. Conservative Oxygen Therapy during Mechanical Ventilation in the ICU. N Engl J Med. 2020.",
+    "year": 2020,
+    "study_type": "Prospective multicentre RCT",
+    "setting": "ICU",
+    "NCT": "ACTRN12615000957594"
+  },
+  "clinical_question": {
+    "condition": "Patients undergoing mechanical ventilation in ICU",
+    "intent": "treatment",
+    "timepoint": "ICU"
+  },
+  "population_context": {
+    "population_description": "1000 adult patients aged ≥18 years who were anticipated to require mechanical ventilation in the ICU beyond the day after recruitment.",
+    "risk_group": "Mechanically ventilated ICU patients",
+    "surgical_context": "Non-surgical / ICU",
+    "exclusions": "Not fully reported in provided text; see Supplementary Appendix",
+    "_sample_size": 1000
+  },
+  "intervention": {
+    "name": "Conservative oxygen therapy",
+    "components": [
+      "Upper alarm limit for SpO2 set to 97%",
+      "FiO2 decreased to 0.21 if SpO2 above acceptable lower limit",
+      "Supplemental oxygen discontinued in extubated patients if SpO2 above acceptable lower limit",
+      "Minimize exposure to SpO2 of 97% or higher"
+    ],
+    "parameter_values": "SpO2 target range: lower limit 90%, upper limit alarm 97%; FiO2 reduced to 0.21 or decreased by at least 0.05 at intervals of 30 minutes or less",
+    "individualized": true,
+    "timing": "From randomization until ICU discharge or day 28, whichever was earlier"
+  },
+  "comparator": {
+    "description": "Usual oxygen therapy with no specific measures limiting FiO2 or SpO2; use of upper alarm limits for SpO2 was prohibited; use of FiO2 less than 0.3 during invasive ventilation was discouraged",
+    "standard_of_care_flag": true
+  },
+  "outcome_effect": {
+    "outcome_name": "Number of ventilator-free days from randomization until day 28",
+    "direction": "no effect",
+    "effect_measure": "ARD",
+    "effect_size": -0.3,
+    "ci_lower": -2.1,
+    "ci_upper": 1.6,
+    "p_value": "0.80",
+    "time_horizon": "28 days"
+  },
+  "evidence_appraisal": {
+    "strengths": [
+      "Large multicenter randomized controlled trial with 1000 enrolled patients",
+      "Prospective design with predetermined protocol registered before enrollment completion",
+      "Independent data and safety monitoring committee oversight",
+      "Clear randomization procedure with computer-generated random numbers and stratification by center",
+      "Multiple secondary outcomes including mortality at 90 and 180 days, cognitive function, and quality of life"
+    ],
+    "limitations": [
+      "No significant difference in primary outcome between groups (median VFD 21.3 vs 22.1 days, p=0.80)",
+      "Trial group assignment known to clinical staff but not to patients/families (single-blinding)",
+      "Enrollment restricted to patients with <2 hours of mechanical ventilation, limiting generalizability to earlier ICU course",
+      "Mortality at 180 days showed trend toward increased mortality in conservative oxygen group (35.7% vs 34.5%, OR 1.05, 95% CI 0.81-1.37) though not statistically significant"
+    ],
+    "adverse_events": [],
+    "quality_score": 0.0
+  },
+  "applicability": {
+    "generalizability_notes": "Findings apply to adult ICU patients anticipated to require mechanical ventilation beyond the day after recruitment. Results may not generalize to patients with <2 hours of baseline ventilation at enrollment or to specific subpopulations such as ARDS or severe hypoxemia requiring high FiO2.",
+    "subgroup_effects": "Not reported"
+  },
+  "provenance": {
+    "pmid": "31613432",
+    "quoted_sentences": {
+      "design": "ICU-ROX was an investigator-initiated, parallel-group, randomized clinical trial.",
+      "intervention": "In the conservative-oxygen group, the FiO2 was decreased to 0.21 and supplemental oxygen was discontinued in patients who had been extubated if the SpO2 was above the acceptable lower limit. In this group, we sought to minimize exposure to an SpO2 of 97% or higher by mandating the use of an alarm that was set to sound when the SpO2 was 97% whenever supplemental oxygen was administered in the ICU.",
+      "results": "The number of ventilator-free days did not differ significantly between the conservative-oxygen group and the usual-oxygen group, with a median duration of 21.3 days (interquartile range, 0 to 26.3) and 22.1 days (interquartile range, 0 to 26.2), respectively, for an absolute difference of −0.3 days (95% confidence interval [CI], −2.1 to 1.6; P = 0.80).",
+      "outcome": "In adults undergoing mechanical ventilation in the ICU, the use of conservative oxygen therapy, as compared with usual oxygen therapy, did not significantly affect the number of ventilator-free days."
+    },
+    "section": "abstract"
+  },
+  "extraction_method": "pdf",
+  "curator_id": "auto-extract",
+  "extraction_date": "2026-02-25T16:37:41.764379",
+  "_paper_number": 7,
+  "_raw_text": "new england\nThe\njournal medicine\nof\nestablished in 1812 March 12, 2020 vol. 382 no. 11\nConservative Oxygen Therapy during Mechanical Ventilation\nin the ICU\nThe ICU-ROX Investigators and the Australian and New Zealand Intensive Care Society Clinical Trials Group*\nabstract\nBACKGROUND\nPatients who are undergoing mechanical ventilation in the intensive care unit The members of the writing committee\n(ICU) often receive a high fraction of inspired oxygen (Fio) and have a high arte- (Diane Mackle, M.N., Rinaldo Bellomo,\n2 M.D., Michael Bailey, Ph.D., Richard Beas-\nrial oxygen tension. The conservative use of oxygen may reduce oxygen exposure,\nley, M.D., D. Sc., Adam Deane, M.D.,\ndiminish lung and systemic oxidative injury, and thereby increase the number of Ph.D., Glenn Eastwood, R.N., Ph.D., Simon\nventilator-free days (days alive and free from mechanical ventilation). Finfer, M.D., Ross Freebairn, M.D., Victoria\nKing, R.N., Natalie Linke, R.N., Edward\nMETHODS Litton, M.D., Ph.D., Colin McArthur,\nWe randomly assigned 1000 adult patients who were anticipated to require me- M.D., Shay McGuinness, M.D., Rakshit\nPanwar, M.D., and Paul Young, M.D.,\nchanical ventilation beyond the day after recruitment in the ICU to receive conser-\nPh.D.) assume responsibility for the over-\nvative or usual oxygen therapy. In the two groups, the default lower limit for oxygen all content and integrity of this article.\nsaturation as measured by pulse oximetry (Spo) was 90%. In the conservative-\nThe affiliations of the members of the\n2\noxygen group, the upper limit of the Spo alarm was set to sound when the level writing committee are listed in the Ap-\nreached 97%, and the Fio was decreased 2 to 0.21 if the Spo was above the accept- pendix. Address reprint requests to Dr.\n2 2 Young at the Intensive Care Unit, Welling-\nable lower limit. In the usual-oxygen group, there were no specific measures\nton Regional Hospital, Private Bag 7902,\nlimiting the Fio or the Spo. The primary outcome was the number of ventilator- Wellington South, New Zealand, or at\nfree days from r 2 andomizati 2 on until day 28. p aul. y oung@c cdhb. o rg. n z.\n*A complete list of investigators in the\nRESULTS\nICU-ROX trial is provided in the Supple-\nThe number of ventilator-free days did not differ significantly between the conser- mentary Appendix, available at NEJM.org.\nvative-oxygen group and the usual-oxygen group, with a median duration of 21.3\nThis article was published on October 14,\ndays (interquartile range, 0 to 26.3) and 22.1 days (interquartile range, 0 to 26.2), 2019, at NEJM.org.\nrespectively, for an absolute difference of −0.3 days (95% confidence interval [CI],\nN Engl J Med 2020;382:989-98.\n−2.1 to 1.6; P = 0.80). The conservative-oxygen group spent more time in the ICU DOI: 10.1056/NEJMoa1903297\nwith an Fio of 0.21 than the usual-oxygen group, with a median duration of 29 Copyright © 2019 Massachusetts Medical Society.\n2\nhours (interquartile range, 5 to 78) and 1 hour (interquartile range, 0 to ",
+  "_title": "Conservative Oxygen Therapy during Mechanical Ventilation in the ICU"
+}

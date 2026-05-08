@@ -1,0 +1,95 @@
+{
+  "study": {
+    "pmid": "28973363",
+    "journal": "Writing Group for the Alveolar Recruitment for Acute Respiratory Distress Syndrome Trial (ART) Investigators. Effect of Lung Recruitment and Titrated Positive End-Expiratory Pressure (PEEP) vs Low PEEP on Mortality in Patients With Acute Respiratory Distress Syndrome: A Randomized Clinical Trial. JAMA. 2017.",
+    "year": 2017,
+    "study_type": "Prospective multicentre RCT",
+    "setting": "ICU",
+    "NCT": "NCT01374022"
+  },
+  "clinical_question": {
+    "condition": "ARDS",
+    "intent": "treatment",
+    "timepoint": "ICU"
+  },
+  "population_context": {
+    "population_description": "Adult patients with moderate to severe ARDS of less than 72 hours duration receiving invasive mechanical ventilation across 120 ICUs from 9 countries.",
+    "risk_group": "Moderate to severe ARDS patients on mechanical ventilation",
+    "surgical_context": "Non-surgical / ICU",
+    "exclusions": "Age younger than 18 years; use of vasoconstrictor drugs in increasing doses over the past 2 hours or mean arterial pressure less than 65 mmHg; contraindications to hypercapnia such as intracranial hypertension or acute coronary syndrome; pneumothorax, subcutaneous emphysema, pneumomediastinum or pneumatocele; patients in palliative care only; previously enrolled patients.",
+    "_sample_size": 1010
+  },
+  "intervention": {
+    "name": "Lung recruitment maneuver with titrated PEEP",
+    "components": [
+      "Bolus of neuromuscular blocker",
+      "Hemodynamic support with intravenous fluids",
+      "Lung recruitment maneuver with incremental PEEP levels",
+      "Decremental PEEP titration according to best respiratory-system static compliance",
+      "Second recruitment maneuver",
+      "Volume-assist control mode ventilation"
+    ],
+    "parameter_values": "Initial protocol: PEEP starting at 25 cmH2O for 1 minute, then 35 cmH2O for 1 minute, then 45 cmH2O for 2 minutes with driving pressure of 15 cmH2O. Decremental titration starting at 23 cmH2O, decreased in steps of 3 cmH2O down to minimum 11 cmH2O, with 4 minutes at each step. Modified protocol (from patient 556 onwards): PEEP increased to 25, 30, then 35 cmH2O in steps of 1 minute, maximum plateau pressure 50 cmH2O, with decremental PEEP steps lasting 3 minutes each.",
+    "individualized": true,
+    "timing": "Immediately after randomization in ICU setting"
+  },
+  "comparator": {
+    "description": "Control strategy of conventional low-PEEP approach using volume-assist control mode ventilation",
+    "standard_of_care_flag": true
+  },
+  "outcome_effect": {
+    "outcome_name": "All-cause mortality until 28 days",
+    "direction": "harm",
+    "effect_measure": "ARD",
+    "effect_size": 6.0,
+    "ci_lower": null,
+    "ci_upper": null,
+    "p_value": "0.041",
+    "time_horizon": "28 days"
+  },
+  "evidence_appraisal": {
+    "strengths": [
+      "Large multicenter randomized trial with 1010 patients across 120 ICUs in 9 countries",
+      "Rigorous protocol with pre-published statistical analysis plan",
+      "Stratified randomization by site, age, and PaO2:FIO2 ratio",
+      "Central allocation concealment via web-based system",
+      "Independent data monitoring committee oversight",
+      "Follow-up through 6 months with multiple secondary outcomes"
+    ],
+    "limitations": [
+      "Open-label design with no blinding of participants, clinicians, or outcome assessors",
+      "Modified intervention protocol mid-trial after cardiac arrest events",
+      "Variable use of co-interventions across sites despite standardized protocol",
+      "Findings contradict prior non-controlled trials suggesting benefit of recruitment maneuvers"
+    ],
+    "adverse_events": [
+      "28-day mortality: 55.3% in experimental group vs 49.3% in control group (HR 1.20, p=0.041)",
+      "6-month mortality: 65.3% experimental vs 59.9% control (HR 1.18, p=0.04)",
+      "Pneumothorax requiring drainage within 7 days: 3.2% experimental vs 1.2% control (p=0.03)",
+      "Barotrauma within 7 days: 5.6% experimental vs 1.6% control (p=0.001)",
+      "Decreased ventilator-free days: 5.3 vs 6.4 days (difference -1.1, p=0.03)",
+      "Three cases of resuscitated cardiac arrest possibly associated with experimental treatment leading to protocol modification"
+    ],
+    "quality_score": 0.0
+  },
+  "applicability": {
+    "generalizability_notes": "Findings apply to patients with moderate to severe ARDS of less than 72 hours duration. Results do not support routine use of lung recruitment maneuvers and titrated PEEP in this population. May not apply to mild ARDS or ARDS of longer duration.",
+    "subgroup_effects": "Not reported"
+  },
+  "provenance": {
+    "pmid": "28973363",
+    "quoted_sentences": {
+      "design": "Multicenter, randomized trial conducted at 120 intensive care units (ICUs) from 9 countries from November 17, 2011, through April 25, 2017, enrolling adults with moderate to severe ARDS.",
+      "intervention": "An experimental strategy with a lung recruitment maneuver and PEEP titration according to the best respiratory\u2013system compliance (n=501; experimental group) or a control strategy of low PEEP (n=509). All patients received volume-assist control mode until weaning.",
+      "results": "At 28 days, 277 of 501 patients (55.3%) in the experimental group and 251 of 509 patients (49.3%) in the control group had died (hazard ratio [HR], 1.20; 95% CI, 1.01 to 1.42; P=.041).",
+      "outcome": "In patients with moderate to severe ARDS, a strategy with lung recruitment and titrated PEEP compared with low PEEP increased 28-day all-cause mortality. These findings do not support the routine use of lung recruitment maneuver and PEEP titration in these patients."
+    },
+    "section": "full-text"
+  },
+  "extraction_method": "pdf",
+  "curator_id": "auto-extract",
+  "extraction_date": "2026-02-25T16:36:23.290569",
+  "_paper_number": 2,
+  "_raw_text": "Research\nJAMA | OriginalInvestigation | CARINGFORTHECRITICALLYILLPATIENT\nEffect of Lung Recruitment and Titrated Positive\nEnd-Expiratory Pressure (PEEP) vs Low PEEP on Mortality\nin Patients With Acute Respiratory Distress Syndrome\nA Randomized Clinical Trial\nWritingGroupfortheAlveolarRecruitmentforAcuteRespiratoryDistressSyndromeTrial(ART)Investigators\nEditorialpage1327\nIMPORTANCETheeffectsofrecruitmentmaneuversandpositiveend-expiratorypressure\nSupplementalcontent\n(PEEP)titrationonclinicaloutcomesinpatientswithacuterespiratorydistress\nsyndrome(ARDS)remainuncertain. CMEQuizat\njamanetwork.com/learning\nandCMEQuestionspage1389\nOBJECTIVE TodetermineiflungrecruitmentassociatedwithPEEPtitrationaccordingtothe\nbestrespiratory-systemcompliancedecreases28-daymortalityofpatientswithmoderateto\nsevereARDScomparedwithaconventionallow-PEEPstrategy.\nDESIGN,SETTING,ANDPARTICIPANTS Multicenter,randomizedtrialconductedat120\nintensivecareunits(ICUs)from9countriesfromNovember17,2011,throughApril25,2017,\nenrollingadultswithmoderatetosevereARDS.\nINTERVENTIONS AnexperimentalstrategywithalungrecruitmentmaneuverandPEEP\ntitrationaccordingtothebestrespiratory\u2013systemcompliance(n=501;experimentalgroup)\noracontrolstrategyoflowPEEP(n=509).Allpatientsreceivedvolume-assistcontrolmode\nuntilweaning.\nMAINOUTCOMESANDMEASURES Theprimaryoutcomewasall-causemortalityuntil28days.\nSecondaryoutcomeswerelengthofICUandhospitalstay;ventilator-freedaysthroughday\n28;pneumothoraxrequiringdrainagewithin7days;barotraumawithin7days;andICU,\nin-hospital,and6-monthmortality.\nRESULTS Atotalof1010patients(37.5%female;mean[SD]age,50.9[17.4]years)were\nenrolledandfollowedup.At28days,277of501patients(55.3%)intheexperimentalgroup\nand251of509patients(49.3%)inthecontrolgrouphaddied(hazardratio[HR],1.20;95%\nCI,1.01to1.42;P=.041).Comparedwiththecontrolgroup,theexperimentalgroupstrategy\nincreased6-monthmortality(65.3%vs59.9%;HR,1.18;95%CI,1.01to1.38;P=.04),\ndecreasedthenumberofmeanventilator-freedays(5.3vs6.4;difference,\u22121.1;95%CI,\u22122.1\nto\u22120.1;P=.03),increasedtheriskofpneumothoraxrequiringdrainage(3.2%vs1.2%;\ndifference,2.0%;95%CI,0.0%to4.0%;P=.03),andtheriskofbarotrauma(5.6%vs1.6%;\ndifference,4.0%;95%CI,1.5%to6.5%;P=.001).Therewerenosignificantdifferencesin\nthelengthofICUstay,lengthofhospitalstay,ICUmortality,andin-hospitalmortality.\nCONCLUSIONSANDRELEVANCE InpatientswithmoderatetosevereARDS,astrategywith GroupInformation:The\nauthors/writinggroupandacomplete\nlungrecruitmentandtitratedPEEPcomparedwithlowPEEPincreased28-dayall-cause\nlistofinvestigatorsforTheAlveolar\nmortality.Thesefindingsdonotsupporttheroutineuseoflungrecruitmentmaneuverand RecruitmentforAcuteRespiratory\nPEEPtitrationinthesepatients. DistressSyndromeTrial(ART)are\nlistedattheendofthisarticle.\nTRIALREGISTRATION clinicaltrials.govIdentifier:NCT01374022 CorrespondingAuthor:Alexandre\nBiasiCavalcanti,MD,PhD,\nHCorResearchInstitute\u2014Hospitaldo\nCora\u00e7\u00e3o,RuaAb\u00edlioSoares250,12th\nFloor,CEP:04005-000,S\u00e3oPaulo,\nSP,Brazil(abiasi@hcor.com.br).\nSectionEditor:DerekC.An",
+  "_title": "Effect of Lung Recruitment and Titrated Positive End-Expiratory Pressure (PEEP) vs Low PEEP on Mortality in Patients With Acute Respiratory Distress Syndrome: A Randomized Clinical Trial"
+}

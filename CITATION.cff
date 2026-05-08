@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this resource, please cite it."
+type: dataset
+title: "POI-KB-ARDS: An Evidence-Anchored Biomedical Knowledge Graph"
+authors:
+  - family-names: Wang
+    given-names: Jinlian
+    affiliation: "UTHealth Houston School of Biomedical Informatics"
+  - family-names: Liang
+    given-names: Yafen
+  - family-names: Liu
+    given-names: Hongfang
+  - family-names: Eltzschig
+    given-names: Holger K.
+year: 2026
+version: "1.0"
+repository-code: "https://github.com/wangjl99/poi_kb_ards"
+license: CC-BY-4.0
+funding-references:
+  - funder-name: "National Heart, Lung, and Blood Institute"
+    award-number: "R24HL180372"

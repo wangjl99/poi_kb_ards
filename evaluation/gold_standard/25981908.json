@@ -1,0 +1,87 @@
+{
+  "study": {
+    "pmid": "25981908",
+    "journal": "Frat JP, Thille AW, Mercat A, et al. High-Flow Oxygen through Nasal Cannula in Acute Hypoxemic Respiratory Failure. N Engl J Med. 2015;372(23):2185-2196.",
+    "year": 2015,
+    "study_type": "Prospective multicentre randomized controlled trial",
+    "setting": "ICU",
+    "NCT": "NCT01320384"
+  },
+  "clinical_question": {
+    "condition": "Acute hypoxemic respiratory failure",
+    "intent": "treatment",
+    "timepoint": "ICU"
+  },
+  "population_context": {
+    "population_description": "Consecutive patients 18 years or older admitted to ICU with acute nonhypercapnic hypoxemic respiratory failure (Pao2/Fio2 ≤300 mm Hg despite oxygen therapy at ≥10 liters per minute, respiratory rate >25 breaths per minute, Paco2 ≤45 mm Hg) without underlying chronic respiratory failure.",
+    "risk_group": "Patients with acute hypoxemic respiratory failure not requiring immediate intubation",
+    "surgical_context": "Non-surgical / ICU",
+    "exclusions": "Paco2 >45 mm Hg, exacerbation of asthma or chronic respiratory failure, cardiogenic pulmonary edema, severe neutropenia, hemodynamic instability requiring vasopressors, Glasgow Coma Scale score ≤12, contraindications to noninvasive ventilation, urgent need for intubation, do-not-intubate order",
+    "_sample_size": 310
+  },
+  "intervention": {
+    "name": "High-flow oxygen therapy through nasal cannula",
+    "components": [
+      "Heated and humidified oxygen delivery",
+      "Large-bore binasal prongs",
+      "Gas flow rate adjustment",
+      "Fraction of inspired oxygen adjustment"
+    ],
+    "parameter_values": "Initial gas flow rate of 50 liters per minute with Fio2 of 1.0, subsequently adjusted to maintain Spo2 ≥92%. Applied for at least 2 calendar days, could then be switched to standard oxygen therapy.",
+    "individualized": true,
+    "timing": "Within 3 hours after validation of inclusion criteria, applied continuously in ICU"
+  },
+  "comparator": {
+    "description": "Two comparators: (1) Standard oxygen therapy delivered continuously through nonrebreather face mask at flow rate ≥10 liters per minute adjusted to maintain Spo2 ≥92%; (2) Noninvasive positive-pressure ventilation delivered through face mask connected to ICU ventilator with pressure support, adjusted to obtain expired tidal volume 7-10 ml/kg, minimum 8 hours per day for at least 2 calendar days, with high-flow oxygen between sessions.",
+    "standard_of_care_flag": true
+  },
+  "outcome_effect": {
+    "outcome_name": "Proportion of patients requiring endotracheal intubation within 28 days after randomization",
+    "direction": "no effect",
+    "effect_measure": "Proportion",
+    "effect_size": 0.0,
+    "ci_lower": 0.0,
+    "ci_upper": 0.0,
+    "p_value": "0.18",
+    "time_horizon": "28 days"
+  },
+  "evidence_appraisal": {
+    "strengths": [
+      "Multicenter randomized controlled trial with 310 patients across 23 ICUs in France and Belgium",
+      "Prospective design with pre-specified criteria for intubation to reduce delayed intubation risk",
+      "Independent safety monitoring board and masked outcome assessment at coordinating center",
+      "Stratified randomization by center and cardiac insufficiency history",
+      "Regular on-site monitoring of centers for protocol adherence and data accuracy",
+      "Focused on nonhypercapnic acute hypoxemic respiratory failure, a more homogeneous population than prior studies"
+    ],
+    "limitations": [
+      "Open-label design with individual study assignments not masked to patients or treating physicians",
+      "Secondary outcome of mortality was not powered as primary outcome",
+      "Relatively high intubation rates even in high-flow oxygen group (38%)",
+      "Study excluded patients with hypercapnia, cardiogenic pulmonary edema, and other conditions, limiting generalizability",
+      "Post-hoc analysis for mortality outcomes increases risk of type I error"
+    ],
+    "adverse_events": [],
+    "quality_score": 0.0
+  },
+  "applicability": {
+    "generalizability_notes": "Findings apply to hemodynamically stable patients with acute nonhypercapnic hypoxemic respiratory failure without chronic underlying lung disease or cardiogenic pulmonary edema. Results may not generalize to hypercapnic respiratory failure, cardiogenic pulmonary edema, COPD exacerbations, or hemodynamically unstable patients.",
+    "subgroup_effects": "Not reported"
+  },
+  "provenance": {
+    "pmid": "25981908",
+    "quoted_sentences": {
+      "design": "We performed a multicenter, open-label trial in which we randomly assigned patients without hypercapnia who had acute hypoxemic respiratory failure and a ratio of the partial pressure of arterial oxygen to the fraction of inspired oxygen of 300 mm Hg or less to high-flow oxygen therapy, standard oxygen therapy delivered through a face mask, or noninvasive positive-pressure ventilation.",
+      "intervention": "In the high-flow–oxygen group, oxygen was passed through a heated humidifier (MR850, Fisher and Paykel Healthcare) and applied continuously through large-bore binasal prongs, with a gas flow rate of 50 liters per minute and an Fio2 of 1.0 at initiation (Optiflow, Fisher and Paykel Healthcare). The fraction of oxygen in the gas flowing in the system was subsequently adjusted to maintain an Spo2 of 92% or more.",
+      "results": "The intubation rate (primary outcome) was 38% (40 of 106 patients) in the high-flow–oxygen group, 47% (44 of 94) in the standard group, and 50% (55 of 110) in the noninvasive-ventilation group (P = 0.18 for all comparisons). The hazard ratio for death at 90 days was 2.01 (95% confidence interval [CI], 1.01 to 3.99) with standard oxygen versus high-flow oxygen (P = 0.046) and 2.50 (95% CI, 1.31 to 4.78) with noninvasive ventilation versus high-flow oxygen (P = 0.006).",
+      "outcome": "In patients with nonhypercapnic acute hypoxemic respiratory failure, treatment with high-flow oxygen, standard oxygen, or noninvasive ventilation did not result in significantly different intubation rates. There was a significant difference in favor of high-flow oxygen in 90-day mortality."
+    },
+    "section": "abstract"
+  },
+  "extraction_method": "pdf",
+  "curator_id": "auto-extract",
+  "extraction_date": "2026-02-25T16:36:05.469915",
+  "_paper_number": 1,
+  "_raw_text": "new england\nThe\njournal medicine\nof\nestablished in 1812 june 4, 2015 vol. 372 no. 23\nHigh-Flow Oxygen through Nasal Cannula in Acute Hypoxemic\nRespiratory Failure\nJean-Pierre Frat, M.D., Arnaud W. Thille, M.D., Ph.D., Alain Mercat, M.D., Ph.D., Christophe Girault, M.D., Ph.D.,\nStéphanie Ragot, Pharm.D., Ph.D., Sébastien Perbet, M.D., Gwénael Prat, M.D., Thierry Boulain, M.D.,\nElise Morawiec, M.D., Alice Cottereau, M.D., Jérôme Devaquet, M.D., Saad Nseir, M.D., Ph.D., Keyvan Razazi, M.D.,\nJean-Paul Mira, M.D., Ph.D., Laurent Argaud, M.D., Ph.D., Jean-Charles Chakarian, M.D., Jean-Damien Ricard, M.D., Ph.D.,\nXavier Wittebole, M.D., Stéphanie Chevalier, M.D., Alexandre Herbland, M.D., Muriel Fartoukh, M.D., Ph.D.,\nJean-Michel Constantin, M.D., Ph.D., Jean-Marie Tonnelier, M.D., Marc Pierrot, M.D., Armelle Mathonnet, M.D.,\nGaëtan Béduneau, M.D., Céline Delétage-Métreau, Ph.D., Jean-Christophe M. Richard, M.D., Ph.D.,\nLaurent Brochard, M.D., and René Robert, M.D., Ph.D., for the FLORALI Study Group and the REVA Network*\nABSTRACT\nBACKGROUND\nWhether noninvasive ventilation should be administered in patients with acute hypox- The authors’ affiliations are listed in the\nemic respiratory failure is debated. Therapy with high-flow oxygen through a nasal Appendix. Address reprint requests to\nDr. Frat at Centre Hospitalier Universitaire\ncannula may offer an alternative in patients with hypoxemia.\nde Poitiers, Service de Réanimation Médi-\nMETHODS cale 2, rue de la Milétrie, CS 90577, 86021\nCEDEX Poitiers, France, or at jean-pierre\nWe performed a multicenter, open-label trial in which we randomly assigned patients\n.frat@chu-poitiers.fr.\nwithout hypercapnia who had acute hypoxemic respiratory failure and a ratio of the\npartial pressure of arterial oxygen to the fraction of inspired oxygen of 300 mm Hg * A complete list of investigators in the\nClinical Effect of the Association of Non-\nor less to high-flow oxygen therapy, standard oxygen therapy delivered through a face\ninvasive Ventilation and High Flow Nasal\nmask, or noninvasive positive-pressure ventilation. The primary outcome was the Oxygen Therapy in Resuscitation of Pa-\nproportion of patients intubated at day 28; secondary outcomes included all-cause tients with Acute Lung Injury (FLORALI)\nstudy and the Réseau Européen de Re-\nmortality in the intensive care unit and at 90 days and the number of ventilator-free\ncherche en Ventilation Artificielle (REVA)\ndays at day 28. Network is provided in the Supplemen-\ntary Appendix, available at NEJM.org.\nRESULTS\nA total of 310 patients were included in the analyses. The intubation rate (primary This article was published on May 17, 2015,\noutcome) was 38% (40 of 106 patients) in the high-flow–oxygen group, 47% (44 of 94) at NEJM.org.\nin the standard group, and 50% (55 of 110) in the noninvasive-ventilation group\nN Engl J Med 2015;372:2185-96.\n(P = 0.18 for all comparisons). The number of ventilator-free days at day 28 was sig- DOI: 10.1056/NEJMoa1503326\nnificantly high",
+  "_title": "High-Flow Oxygen through Nasal Cannula in Acute Hypoxemic Respiratory Failure"
+}
