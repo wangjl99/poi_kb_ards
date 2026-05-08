@@ -1,0 +1,519 @@
+node_id,label,subset,node_type,iri,pmid
+1_point_reduction_in_lis_or_successful_extubation_by_day_7,1-point reduction in LIS or successful extubation by day 7,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/1_point_reduction_in_lis_or_successful_e,17426195
+1_year_outcomes_for_ards_survivors,1-year outcomes for ARDS survivors,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/1_year_outcomes_for_ards_survivors,22948576
+15_day_icu_mortality,15-day ICU mortality,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/15_day_icu_mortality,32278670
+28_day_all_cause_mortality,28-day all-cause mortality,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/28_day_all_cause_mortality,23688302
+28_day_all_cause_mortality__ventilator_free_days__day_1_28,"28-day all-cause mortality, ventilator-free days (day 1-28)",POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/28_day_all_cause_mortality__ventilator_f,15286546
+28_day_mortality,28-day mortality,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/28_day_mortality,32678530
+30_day_mortality,30-day mortality,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/30_day_mortality,11373414
+30_day_survival,30-day survival,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/30_day_survival,8618579
+30_minute_spontaneous_breathing_trial,30-minute spontaneous breathing trial,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/30_minute_spontaneous_breathing_trial,9927366
+48_hr_neuromuscular_blocking_agents__nmba__infusion,48-hr neuromuscular blocking agents (NMBA) infusion,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/48_hr_neuromuscular_blocking_agents__nmb,14707568
+6_minute_walk_distance__cognitive_impairment,"6-minute-walk distance, cognitive impairment",POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/6_minute_walk_distance__cognitive_impair,23805899
+60_day_all_cause_mortality,60-day all-cause mortality,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/60_day_all_cause_mortality,
+60_day_in_hospital_mortality,60-day in-hospital mortality,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/60_day_in_hospital_mortality,24835849
+60_day_mortality,60-day mortality,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/60_day_mortality,30642776
+80__oxygen,80% oxygen,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/80__oxygen,19826023
+90_day_all_cause_mortality,90-day all-cause mortality,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/90_day_all_cause_mortality,
+90_day_mortality,90-day mortality,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/90_day_mortality,33021684
+ace_i_d_polymorphism,ACE I/D polymorphism,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/ace_i_d_polymorphism,12204859
+ards_treatment_according_to_a_criteria_defined_clinical_algo,ARDS treatment according to a criteria-defined clinical algorithm,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/ards_treatment_according_to_a_criteria_d,9310799
+ards_vs_ali_vs_acute_respiratory_failure,ARDS vs ALI vs acute respiratory failure,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/ards_vs_ali_vs_acute_respiratory_failure,17585106
+activated_protein_c,Activated protein C,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/activated_protein_c,18565951
+acute_pao2_increase__pulmonary_artery_pressure_decrease__ven,"Acute PaO2 increase, pulmonary artery pressure decrease, ventilator settings",POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/acute_pao2_increase__pulmonary_artery_pr,9428538
+acute_respiratory_distress_syndrome,Acute respiratory distress syndrome,POI_disease,biolink:Disease,http://poi-kb.org/ards/ARDS_POI_03270,
+adjunctive_corticosteroid_therapy,Adjunctive corticosteroid therapy,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/adjunctive_corticosteroid_therapy,26258555
+adoption_of_low_tidal_volume_ventilation,Adoption of low tidal volume ventilation,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/adoption_of_low_tidal_volume_ventilation,12574072
+aerosolized_albuterol,Aerosolized albuterol,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/aerosolized_albuterol,21562125
+aerosolized_synthetic_surfactant,Aerosolized synthetic surfactant,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/aerosolized_synthetic_surfactant,8618579
+aggressive_recruitment_maneuver_strategy,Aggressive recruitment maneuver strategy,POI_context,biolink:InformationContentEntity,http://poi-kb.org/ards/ARDS_POI_03286,
+airway_management_skills,Airway management skills,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/airway_management_skills,15599146
+airway_pressure_release_ventilation__aprv,Airway pressure release ventilation (APRV),POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/airway_pressure_release_ventilation__apr,8004312
+airway_pressure_release_ventilation__aprv__with_spontaneous,Airway pressure release ventilation (APRV) with spontaneous breathing,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/airway_pressure_release_ventilation__apr,11435237
+all_cause_hospital_mortality,All-cause hospital mortality,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/all_cause_hospital_mortality,18270352
+all_cause_mortality,All-cause mortality,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/all_cause_mortality,26258555
+all_cause_mortality_at_90_days,All-cause mortality at 90 days,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/all_cause_mortality_at_90_days,34463700
+all_cause_mortality_until_28_days,All-cause mortality until 28 days,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/all_cause_mortality_until_28_days,28973363
+allogeneic_mesenchymal_stromal_cells,Allogeneic mesenchymal stromal cells,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/allogeneic_mesenchymal_stromal_cells,30455077
+alveolar_derecruitment,Alveolar derecruitment,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/alveolar_derecruitment,12615633
+alveolar_derecruitment__v_der,Alveolar derecruitment (V(DER)),POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/alveolar_derecruitment__v_der__,11549535
+ambulation,Ambulation,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/ambulation,18379236
+anakinra,Anakinra,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/anakinra,34480127
+angiopoietin_2,Angiopoietin-2,POI_biomarker,biolink:Biomarker,http://poi-kb.org/ards/kg/angiopoietin_2,
+arterial_blood_gases__breathing_pattern__and_patients__toler,"Arterial blood gases, breathing pattern, and patients' tolerance to ventilation",POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/arterial_blood_gases__breathing_pattern_,10890620
+arterial_hyperoxia,Arterial hyperoxia,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/arterial_hyperoxia,25855899
+aspirin,Aspirin,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/aspirin,27179988
+assessment_for_patient_ventilator_trigger_asynchrony,Assessment for patient-ventilator trigger asynchrony,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/assessment_for_patient_ventilator_trigge,9404759
+assisted_coughing__noninvasive_ventilation,"Assisted coughing, noninvasive ventilation",POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/assisted_coughing__noninvasive_ventilati,10767247
+avoidance_of_intubation,Avoidance of intubation,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/avoidance_of_intubation,17133177
+avoidance_of_respiratory_failure_within_72h_after_extubation,Avoidance of respiratory failure within 72h after extubation,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/avoidance_of_respiratory_failure_within_,19682735
+avoided_intubation,Avoided intubation,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/ARDS_POI_02874,
+avoided_intubation_in_sars_related_acute_respiratory_failure,Avoided intubation in SARS-related acute respiratory failure,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/avoided_intubation_in_sars_related_acute,15364765
+awake_prone_positioning,Awake prone positioning,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/awake_prone_positioning,34425070
+awake_prone_positioning__awake_pp____hfno,Awake prone positioning (awake-PP) + HFNO,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/awake_prone_positioning__awake_pp____hfn,33023669
+awake_prone_positioning_protocol,Awake prone positioning protocol,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/awake_prone_positioning_protocol,34127046
+breathe_criteria_for_breath_stacking_dyssynchrony,BREATHE criteria for breath stacking dyssynchrony,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/breathe_criteria_for_breath_stacking_dys,27342819
+baricitinib,Baricitinib,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/ARDS_POI_03213,37320743
+barotrauma,Barotrauma,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/barotrauma,
+bispectral_index__bis__monitoring,Bispectral Index (BIS) monitoring,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/bispectral_index__bis__monitoring,10470756
+body_mass_index,Body mass index,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/body_mass_index,28222804
+bovine_surfactant_therapy,Bovine surfactant therapy,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/bovine_surfactant_therapy,9105072
+breathing_pattern__neuromuscular_drive__inspiratory_muscle_e,"Breathing pattern, neuromuscular drive, inspiratory muscle effort, arterial blood gases, dyspnea",POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/breathing_pattern__neuromuscular_drive__,16081548
+covid_19_infection,COVID-19 infection,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/covid_19_infection,33341155
+cardiac_index_increase__15,Cardiac index increase >15%,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/cardiac_index_increase__15_,15754196
+change_in_organ_failure_score_from_baseline_to_96_hours,Change in organ failure score from baseline to 96 hours,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/change_in_organ_failure_score_from_basel,31573637
+change_in_oxygenation_from_baseline_to_day_1,Change in oxygenation from baseline to day 1,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/change_in_oxygenation_from_baseline_to_d,16096441
+cisatracurium,Cisatracurium,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/cisatracurium,31112383
+cisatracurium_besylate_neuromuscular_blockade,Cisatracurium besylate neuromuscular blockade,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/cisatracurium_besylate_neuromuscular_blo,23497608
+composite_clinical_worsening,Composite clinical worsening,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/composite_clinical_worsening,33080005
+composite_of_30_day_all_cause_mortality_and_severe_morbidity,Composite of 30-day all-cause mortality and severe morbidity,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/composite_of_30_day_all_cause_mortality_,20940381
+composite_of_ards_and_pneumonia,Composite of ARDS and pneumonia,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/composite_of_ards_and_pneumonia,26181219
+composite_of_death_or_hospital_discharge_with_severe_disabil,Composite of death or hospital discharge with severe disability/coma (CPC 3-4),POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/composite_of_death_or_hospital_discharge,36027567
+composite_of_death__myocardial_infarction__stroke__renal_fai,"Composite of death, myocardial infarction, stroke, renal failure, or respiratory failure",POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/composite_of_death__myocardial_infarctio,23117776
+composite_of_postoperative_pulmonary_complications_by_postop,Composite of postoperative pulmonary complications by postoperative day 5,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/composite_of_postoperative_pulmonary_com,24894577
+composite_of_pulmonary_and_systemic_complications_during_the,Composite of pulmonary and systemic complications during the first 7 postoperative days,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/composite_of_pulmonary_and_systemic_comp,29371130
+composite_of_severe_postoperative_pulmonary_complications_wi,Composite of severe postoperative pulmonary complications within 7 postoperative days,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/composite_of_severe_postoperative_pulmon,38065200
+composite_outcome_of_major_respiratory_complications,Composite outcome of major respiratory complications,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/composite_outcome_of_major_respiratory_c,26174419
+computer_driven_weaning_protocol,Computer-driven weaning protocol,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/computer_driven_weaning_protocol,16840741
+computerized_patient_simulator_training_for_airway_managemen,Computerized patient simulator training for airway management,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/computerized_patient_simulator_training_,15599146
+conservative_fluid_management_strategy,Conservative fluid management strategy,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/conservative_fluid_management_strategy,16714767
+conservative_or_deresuscitative_fluid_strategy,Conservative or deresuscitative fluid strategy,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/conservative_or_deresuscitative_fluid_st,27734109
+conservative_oxygen_therapy,Conservative oxygen therapy,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/conservative_oxygen_therapy,31613432
+continuous_positive_airway_pressure__cpap__plus_oxygen_thera,Continuous positive airway pressure (CPAP) plus oxygen therapy,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/continuous_positive_airway_pressure__cpa,11066186
+cooling,Cooling,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/cooling,7812538
+correlation_between_invasive_and_noninvasive_measurements_of,Correlation between invasive and noninvasive measurements of indocyanine green plasma disappearance rate,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/correlation_between_invasive_and_noninva,11126271
+corticosteroids,Corticosteroids,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/corticosteroids,33876268
+cuff_leak_test,Cuff-leak test,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/cuff_leak_test,19399474
+daily_anxiety__vas_0_100,Daily anxiety (VAS 0-100),POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/daily_anxiety__vas_0_100_,23689789
+daily_screening_and_trials_of_spontaneous_breathing,Daily screening and trials of spontaneous breathing,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/daily_screening_and_trials_of_spontaneou,8948561
+day_28_mortality,Day-28 mortality,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/day_28_mortality,26444879
+days_alive_and_off_assisted_breathing,Days alive and off assisted breathing,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/days_alive_and_off_assisted_breathing,15069048
+days_alive_without_delirium_or_coma_during_14_day_interventi,Days alive without delirium or coma during 14-day intervention period,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/days_alive_without_delirium_or_coma_duri,30346242
+days_free_of_respiratory_support_within_28_days,Days free of respiratory support within 28 days,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/days_free_of_respiratory_support_within_,33764378
+daytime_arterial_pao2_and_paco2__sleep_time_and_efficiency,"Daytime arterial PaO2 and PaCO2, sleep time and efficiency, overnight PaCO2",POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/daytime_arterial_pao2_and_paco2__sleep_t,7633704
+death_at_30_days_or_major_postsurgical_morbidity,Death at 30 days or major postsurgical morbidity,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/death_at_30_days_or_major_postsurgical_m,11965272
+death_at_60_days,Death at 60 days,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/death_at_60_days,16714767
+death_before_discharge_home_or_before_28_days,Death before discharge home or before 28 days,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/death_before_discharge_home_or_before_28,10793162
+death_before_hospital_discharge,Death before hospital discharge,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/death_before_hospital_discharge,15269312
+death_from_any_cause_at_28_days,Death from any cause at 28 days,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/death_from_any_cause_at_28_days,32160661
+death_or_respiratory_failure_through_day_28,Death or respiratory failure through day 28,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/death_or_respiratory_failure_through_day,34133856
+death_or_severe_disability_at_6_months,Death or severe disability at 6 months,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/death_or_severe_disability_at_6_months,19762075
+death_within_90_days,Death within 90 days,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/death_within_90_days,33471452
+decrease_in_intubation_rate,Decrease in intubation rate,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/decrease_in_intubation_rate,14500259
+decremental_peep_in_ali,Decremental PEEP in ALI,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/decremental_peep_in_ali,11549535
+delirium_incidence,Delirium incidence,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/delirium_incidence,25894620
+detection_of_hypoventilation,Detection of hypoventilation,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/detection_of_hypoventilation,15539726
+development_of_ards_and_mortality_rate,Development of ARDS and mortality rate,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/development_of_ards_and_mortality_rate,8275731
+development_of_ards_by_day_7,Development of ARDS by day 7,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/development_of_ards_by_day_7,27179988
+development_of_lung_injury,Development of lung injury,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/development_of_lung_injury,20055989
+dexamethasone,Dexamethasone,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/dexamethasone,32678530
+diagnosis_of_acute_respiratory_failure,Diagnosis of acute respiratory failure,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/diagnosis_of_acute_respiratory_failure,18403664
+diagnostic_yield_of_fo_bal,Diagnostic yield of FO-BAL,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/diagnostic_yield_of_fo_bal,18090351
+discharge_to_home_vs_rehabilitation_facility_in_icuaw,Discharge to home vs rehabilitation facility in ICUAW,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/discharge_to_home_vs_rehabilitation_faci,25496103
+discrimination_between_septic_and_nonseptic_ards,Discrimination between septic and nonseptic ARDS,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/discrimination_between_septic_and_nonsep,10548201
+duration_of_invasive_ventilation__icu_stay__and_hospital_sta,"Duration of invasive ventilation, ICU stay, and hospital stay",POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/duration_of_invasive_ventilation__icu_st,12689847
+duration_of_mechanical_ventilation,Duration of mechanical ventilation,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/duration_of_mechanical_ventilation,8948561
+duration_of_weaning,Duration of weaning,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/duration_of_weaning,7823995
+dyspnea_and_opioid_use,Dyspnea and opioid use,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/dyspnea_and_opioid_use,23406914
+e_pre_deliric_model,E-PRE-DELIRIC model,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/e_pre_deliric_model,25894620
+ecmo_network_organisation,ECMO network organisation,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/ecmo_network_organisation,33887246
+early_activity_protocol_in_respiratory_icu,Early activity protocol in respiratory ICU,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/early_activity_protocol_in_respiratory_i,18379236
+early_continuous_neuromuscular_blockade_with_deep_sedation,Early continuous neuromuscular blockade with deep sedation,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/early_continuous_neuromuscular_blockade_,31112383
+early_corticosteroid_therapy,Early corticosteroid therapy,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/early_corticosteroid_therapy,21107529
+early_intubation,Early intubation,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/early_intubation,33766109
+early_noninvasive_ventilation,Early noninvasive ventilation,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/early_noninvasive_ventilation,26444879
+early_physical_and_occupational_therapy,Early physical and occupational therapy,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/early_physical_and_occupational_therapy,20711065
+early_use_of_pulmonary_artery_catheter__pac,Early use of pulmonary artery catheter (PAC),POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/early_use_of_pulmonary_artery_catheter__,14645314
+early_venovenous_ecmo,Early venovenous ECMO,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/early_venovenous_ecmo,29791822
+education_program_on_vap_prevention,Education program on VAP prevention,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/education_program_on_vap_prevention,12441746
+endotracheal_intubation_rate,Endotracheal intubation rate,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/endotracheal_intubation_rate,7874950
+endotracheal_intubation_within_28_days,Endotracheal intubation within 28 days,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/endotracheal_intubation_within_28_days,27245914
+endotracheal_intubation_within_30_days,Endotracheal intubation within 30 days,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/endotracheal_intubation_within_30_days,35569448
+enteral_feeding_with_epa_gla_and_antioxidants,Enteral feeding with EPA+GLA and antioxidants,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/enteral_feeding_with_epa_gla_and_antioxi,10470743
+enteral_nutrition_use,Enteral nutrition use,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/enteral_nutrition_use,15078758
+enteral_supplementation_of_n_3_fatty_acids____linolenic_acid,"Enteral supplementation of n-3 fatty acids, γ-linolenic acid, and antioxidants",POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/enteral_supplementation_of_n_3_fatty_aci,21976613
+epidural_anaesthesia_and_analgesia,Epidural anaesthesia and analgesia,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/epidural_anaesthesia_and_analgesia,11965272
+epithelial_cell_apoptosis_in_kidney_and_small_intestine__bio,Epithelial cell apoptosis in kidney and small intestine; biochemical markers of organ dysfunction,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/epithelial_cell_apoptosis_in_kidney_and_,12709468
+experimental_ventilation_strategy,Experimental ventilation strategy,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/experimental_ventilation_strategy,18270352
+extracorporeal_carbon_dioxide_removal__ecco2r__to_facilitate,Extracorporeal carbon dioxide removal (ECCO2R) to facilitate ultra-protective ventilation,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/extracorporeal_carbon_dioxide_removal__e,30790030
+extracorporeal_lung_assist__ecla__during_ards,Extracorporeal lung assist (ECLA) during ARDS,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/extracorporeal_lung_assist__ecla__during,22948576
+extracorporeal_membrane_oxygenation__ecmo,Extracorporeal membrane oxygenation (ECMO),POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/extracorporeal_membrane_oxygenation__ecm,19762075
+extravascular_lung_water_and_ards,Extravascular lung water and ARDS,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/extravascular_lung_water_and_ards,15774053
+extravascular_lung_water_index,Extravascular lung water index,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/ARDS_POI_03287,
+extubation_decannulation_criteria,Extubation/decannulation criteria,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/extubation_decannulation_criteria,8989078
+feasibility_of_early_pt_ot,Feasibility of early PT/OT,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/feasibility_of_early_pt_ot,20711065
+fio2_at_120h,FiO2 at 120h,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/fio2_at_120h,9105072
+fiberoptic_bronchoscopy_and_bronchoalveolar_lavage__fo_bal,Fiberoptic bronchoscopy and bronchoalveolar lavage (FO-BAL),POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/fiberoptic_bronchoscopy_and_bronchoalveo,18090351
+fiberoptic_bronchoscopy_with_bronchoalveolar_lavage__fo_bal,Fiberoptic bronchoscopy with bronchoalveolar lavage (FO-BAL),POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/fiberoptic_bronchoscopy_with_bronchoalve,20581167
+fluid_challenge,Fluid challenge,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/fluid_challenge,15754196
+fluid_overload,Fluid overload,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/fluid_overload,33009098
+fluid_overload__ards_risk_mechanism,Fluid overload (ARDS risk mechanism),POI_mechanism,biolink:BiologicalProcess,http://poi-kb.org/ards/ARDS_POI_01360,
+fluid_responsiveness,Fluid responsiveness,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/fluid_responsiveness,15034650
+focal_ards,Focal ARDS,POI_disease,biolink:Disease,http://poi-kb.org/ards/ARDS_POI_03202,30342773
+furosemide_with_albumin,Furosemide with albumin,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/furosemide_with_albumin,16096441
+gas_exchange__length_of_icu_stay__ventilation_duration__mort,"Gas exchange, length of ICU stay, ventilation duration, mortality",POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/gas_exchange__length_of_icu_stay__ventil,12447511
+global_and_regional_lung_ultrasound_scores_compared_with_ct,Global and regional Lung Ultrasound scores compared with CT quantitative analysis,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/global_and_regional_lung_ultrasound_scor,30048331
+global_strength_and_handgrip_dynamometry_assessment,Global strength and handgrip dynamometry assessment,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/global_strength_and_handgrip_dynamometry,18511703
+growth_hormone,Growth hormone,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/growth_hormone,10477776
+hfnc___niv_preoxygenation,HFNC + NIV preoxygenation,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/hfnc___niv_preoxygenation,27730283
+haloperidol,Haloperidol,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/haloperidol,30346242
+helmet_noninvasive_ventilation,Helmet noninvasive ventilation,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/helmet_noninvasive_ventilation,33764378
+hemodynamic_effects_of_prone_positioning,Hemodynamic effects of prone positioning,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/hemodynamic_effects_of_prone_positioning,24102072
+high_peep_ventilation_strategy,High PEEP ventilation strategy,POI_context,biolink:InformationContentEntity,http://poi-kb.org/ards/ARDS_POI_03285,
+high_peep_with_recruitment_maneuvers,High PEEP with recruitment maneuvers,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/high_peep_with_recruitment_maneuvers,31157366
+high_flow_nasal_cannula__hfnc,High flow nasal cannula (HFNC),POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/high_flow_nasal_cannula__hfnc_,30888444
+high_frequency_oscillation,High frequency oscillation,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/high_frequency_oscillation,20483951
+high_frequency_oscillatory_ventilation__hfov,High frequency oscillatory ventilation (HFOV),POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/high_frequency_oscillatory_ventilation__,16137357
+high_level_of_positive_end_expiratory_pressure__12_cm_h2o__w,High level of positive end-expiratory pressure (12 cm H2O) with recruitment manoeuvres,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/high_level_of_positive_end_expiratory_pr,24894577
+high_flow_conditioned_oxygen_therapy,High-flow conditioned oxygen therapy,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/high_flow_conditioned_oxygen_therapy,27706464
+high_flow_nasal_cannula_at_increasing_flow_rates,High-flow nasal cannula at increasing flow rates,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/high_flow_nasal_cannula_at_increasing_fl,28762180
+high_flow_nasal_cannula_oxygen,High-flow nasal cannula oxygen,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/high_flow_nasal_cannula_oxygen,27245914
+high_flow_nasal_cannula_oxygen__hfnc,High-flow nasal cannula oxygen (HFNC),POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/high_flow_nasal_cannula_oxygen__hfnc_,25869405
+high_flow_nasal_cannula_oxygen_therapy,High-flow nasal cannula oxygen therapy,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/high_flow_nasal_cannula_oxygen_therapy,26975498
+high_flow_nasal_oxygen_therapy,High-flow nasal oxygen therapy,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/high_flow_nasal_oxygen_therapy,25980660
+high_flow_nasal_oxygen_with_noninvasive_ventilation,High-flow nasal oxygen with noninvasive ventilation,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/high_flow_nasal_oxygen_with_noninvasive_,31577036
+high_flow_oxygen_therapy,High-flow oxygen therapy,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/high_flow_oxygen_therapy,34874419
+high_flow_oxygen_therapy_through_nasal_cannula,High-flow oxygen therapy through nasal cannula,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/high_flow_oxygen_therapy_through_nasal_c,25981908
+high_frequency_oscillatory_ventilation,High-frequency oscillatory ventilation,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/high_frequency_oscillatory_ventilation,23339639
+high_frequency_oscillatory_ventilation__hfov,High-frequency oscillatory ventilation (HFOV),POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/high_frequency_oscillatory_ventilation__,11445688
+higher_peep_levels,Higher PEEP levels,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/higher_peep_levels,15269312
+home_nasal_positive_pressure_ventilation__nppv,Home nasal positive-pressure ventilation (NPPV),POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/home_nasal_positive_pressure_ventilation,12527605
+hospital_length_of_stay,Hospital length of stay,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/hospital_length_of_stay,27367766
+hospital_mortality,Hospital mortality,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/hospital_mortality,18511703
+hospital_mortality_rate,Hospital mortality rate,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/hospital_mortality_rate,7924367
+hospital_survival,Hospital survival,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/hospital_survival,24693864
+hospitalization_rates_for_respiratory_complications,Hospitalization rates for respiratory complications,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/hospitalization_rates_for_respiratory_co,11083691
+hydrocortisone,Hydrocortisone,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/hydrocortisone,32876689
+hydrocortisone_50mg_iv_q6h,Hydrocortisone 50mg IV q6h,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/hydrocortisone_50mg_iv_q6h,27741949
+hyperinflammatory_ards_subphenotype,Hyperinflammatory ARDS subphenotype,POI_disease,biolink:Disease,http://poi-kb.org/ards/ARDS_POI_03200,25030514
+hyperoxia,Hyperoxia,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/hyperoxia,28219612
+hypoinflammatory_ards_subphenotype,Hypoinflammatory ARDS subphenotype,POI_disease,biolink:Disease,http://poi-kb.org/ards/ARDS_POI_03201,25030514
+icu_intubation_bundle_management_protocol,ICU intubation bundle management protocol,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/icu_intubation_bundle_management_protoco,19921148
+icu_mortality,ICU mortality,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/icu_mortality,16556697
+identification_of_ards_subphenotypes,Identification of ARDS subphenotypes,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/identification_of_ards_subphenotypes,24853585
+immune_modulating_diets__imds,Immune-modulating diets (IMDs),POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/immune_modulating_diets__imds_,18626628
+implementation_of_icu_nutrition_management_protocol,Implementation of ICU nutrition management protocol,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/implementation_of_icu_nutrition_manageme,15078758
+improved_pa_o2__fi_o2__over_5_days,Improved Pa(O2)/FI(O2) over 5 days,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/improved_pa_o2__fi_o2__over_5_days,12119223
+improved_pao2_fio2_ratio,Improved PaO2/FiO2 ratio,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/improved_pao2_fio2_ratio,8520744
+improved_pao2_fio2_ratio_within_1h,Improved PaO2:FiO2 ratio within 1h,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/improved_pao2_fio2_ratio_within_1h,9700176
+improved_arterial_blood_gases,Improved arterial blood gases,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/improved_arterial_blood_gases,21424246
+improvement_in_pao2_fio2_ratio__need_for_intubation__adverse,"Improvement in PaO2/FiO2 ratio, need for intubation, adverse events, hospital stay, mortality, ventilation duration",POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/improvement_in_pao2_fio2_ratio__need_for,11066186
+improvement_in_pao2_fio2__venous_admixture__pulmonary_artery,"Improvement in PaO2/FiO2, venous admixture, pulmonary artery pressure",POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/improvement_in_pao2_fio2__venous_admixtu,7705124
+improvement_in_gas_exchange,Improvement in gas exchange,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/improvement_in_gas_exchange,8797425
+improvement_in_hypercapnic_respiratory_failure,Improvement in hypercapnic respiratory failure,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/improvement_in_hypercapnic_respiratory_f,9872200
+improvement_in_lung_function_and_mortality,Improvement in lung function and mortality,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/improvement_in_lung_function_and_mortali,9669790
+improvement_in_oxygenation,Improvement in oxygenation,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/improvement_in_oxygenation,19001507
+improvement_in_oxygenation__pao2_fio2,Improvement in oxygenation (PaO2/FiO2),POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/improvement_in_oxygenation__pao2_fio2_,9603111
+in_hospital_death_from_any_cause_at_90_days,In-hospital death from any cause at 90 days,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/in_hospital_death_from_any_cause_at_90_d,31112383
+in_hospital_mortality,In-hospital mortality,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/in_hospital_mortality,10477776
+in_hospital_or_short_term_mortality,In-hospital or short-term mortality,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/in_hospital_or_short_term_mortality,23406535
+incidence_of_critical_illness_polyneuropathy_myopathy,Incidence of critical illness polyneuropathy/myopathy,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/incidence_of_critical_illness_polyneurop,17138955
+incidence_of_life_threatening_complications_within_60_min_af,Incidence of life-threatening complications within 60 min after intubation,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/incidence_of_life_threatening_complicati,19921148
+incidence_of_new_pressure_ulcers__stage_2_or_higher,Incidence of new pressure ulcers (stage 2 or higher),POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/incidence_of_new_pressure_ulcers__stage_,24352484
+increase_of_at_least_50__in_fev1_compared_to_baseline,Increase of at least 50% in FEV1 compared to baseline,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/increase_of_at_least_50__in_fev1_compare,12684289
+individualised_perioperative_open_lung_approach__ola,Individualised perioperative open-lung approach (OLA),POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/individualised_perioperative_open_lung_a,29371130
+individualised_perioperative_open_lung_approach__iola__durin,Individualised perioperative open-lung approach (iOLA) during one-lung ventilation,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/individualised_perioperative_open_lung_a,38065200
+individualized_ola,Individualized OLA,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/individualized_ola,38065200
+inflammatory_response,Inflammatory response,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/inflammatory_response,16932229
+inhaled_nitric_oxide,Inhaled nitric oxide,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/inhaled_nitric_oxide,9428538
+inhaled_nitric_oxide__ino,Inhaled nitric oxide (iNO),POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/inhaled_nitric_oxide__ino_,9603111
+inhaled_nitric_oxide__inhno,Inhaled nitric oxide (inhNO),POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/inhaled_nitric_oxide__inhno_,9603127
+inhaled_sevoflurane,Inhaled sevoflurane,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/inhaled_sevoflurane,27611637
+initial_oxygenation_strategy,Initial oxygenation strategy,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/initial_oxygenation_strategy,28948369
+initial_trophic_enteral_nutrition,Initial trophic enteral nutrition,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/initial_trophic_enteral_nutrition,21242788
+injurious_ventilatory_strategy,Injurious ventilatory strategy,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/injurious_ventilatory_strategy,12709468
+inspiratory_effort__work_of_breathing__minute_ventilation__l,"Inspiratory effort, work of breathing, minute ventilation, lung volumes, dynamic compliance, oxygenation",POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/inspiratory_effort__work_of_breathing__m,28762180
+inspiratory_muscle_strength_training__imst,Inspiratory muscle strength training (IMST),POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/inspiratory_muscle_strength_training__im,21385346
+inspiratory_pressure_augmentation_during_spontaneous_breathi,Inspiratory pressure augmentation during spontaneous breathing trials,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/inspiratory_pressure_augmentation_during,27818331
+intensive_pt_program,Intensive PT program,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/intensive_pt_program,26651376
+intensive_care_management,Intensive care management,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/intensive_care_management,32278670
+intensive_insulin_therapy,Intensive insulin therapy,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/intensive_insulin_therapy,17138955
+interleukin_6,Interleukin-6,POI_biomarker,biolink:Biomarker,http://poi-kb.org/ards/ARDS_POI_03205,
+interleukin_8,Interleukin-8,POI_biomarker,biolink:Biomarker,http://poi-kb.org/ards/ARDS_POI_03206,
+intermittent_mandatory_ventilation,Intermittent mandatory ventilation,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/intermittent_mandatory_ventilation,7823995
+intraoperative_high_dose_dexamethasone,Intraoperative high-dose dexamethasone,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/intraoperative_high_dose_dexamethasone,23117776
+intravenous_n_acetylcysteine__nac,Intravenous N-acetylcysteine (NAC),POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/intravenous_n_acetylcysteine__nac_,8275731
+intravenous_dexamethasone,Intravenous dexamethasone,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/intravenous_dexamethasone,32043986
+intravenous_vitamin_c_infusion,Intravenous vitamin C infusion,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/intravenous_vitamin_c_infusion,31573637
+introduction_of_medical_emergency_team,Introduction of medical emergency team,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/introduction_of_medical_emergency_team,15071378
+intubation,Intubation,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/intubation,29099420
+intubation_rate,Intubation rate,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/intubation_rate,11191538
+intubation_within_30_days_after_enrollment,Intubation within 30 days after enrollment,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/intubation_within_30_days_after_enrollme,34127046
+invasive_mechanical_ventilation__imv__rate,Invasive mechanical ventilation (IMV) rate,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/invasive_mechanical_ventilation__imv__ra,28948369
+ketoconazole,Ketoconazole,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/ketoconazole,10789668
+latent_class_analysis_to_identify_ards_subphenotypes,Latent class analysis to identify ARDS subphenotypes,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/latent_class_analysis_to_identify_ards_s,24853585
+liberation_from_mechanical_ventilation,Liberation from mechanical ventilation,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/liberation_from_mechanical_ventilation,27762595
+lighter_sedation_era_clinical_context,Lighter sedation era clinical context,POI_context,biolink:InformationContentEntity,http://poi-kb.org/ards/kg/lighter_sedation_era_clinical_context,
+limitation_of_peak_inspiratory_pressure_to_30_to_40_cm_h2o,"Limitation of peak inspiratory pressure to 30 to 40 cm H2O, low tidal volumes (4 to 7 mL/kg), spontaneous breathing using synchronized intermittent mandatory ventilation from the start of ventilation, and permissive hypercapnia without the use of bicarbonate to buffer acidosis",POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/limitation_of_peak_inspiratory_pressure_,7924367
+lisofylline,Lisofylline,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/lisofylline,11902249
+low_vt___3_ml_kg__with_extracorporeal_co2_removal,Low Vt (≈3 ml/kg) with extracorporeal CO2 removal,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/low_vt___3_ml_kg__with_extracorporeal_co,23306584
+low_tidal_volume_ventilation,Low tidal volume ventilation,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/low_tidal_volume_ventilation,10793162
+low_dose__5_ppm__inhaled_nitric_oxide,Low-dose (5-ppm) inhaled nitric oxide,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/low_dose__5_ppm__inhaled_nitric_oxide,15069048
+low_dose_iv_recombinant_human_gm_csf,Low-dose IV recombinant human GM-CSF,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/low_dose_iv_recombinant_human_gm_csf,12119223
+low_dose_corticosteroids,Low-dose corticosteroids,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/low_dose_corticosteroids,16374152
+lower_oxygenation_target__pao2_60_mmhg,Lower oxygenation target (Pao2 60 mmHg),POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/lower_oxygenation_target__pao2_60_mmhg_,33471452
+lower_tidal_volume_ventilation,Lower tidal volume ventilation,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/lower_tidal_volume_ventilation,15644641
+lower_tidal_volume_ventilation_facilitated_by_extracorporeal,Lower tidal volume ventilation facilitated by extracorporeal carbon dioxide removal,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/lower_tidal_volume_ventilation_facilitat,34463700
+lower_tidal_volumes__6_ml_kg_pbw,Lower tidal volumes (6 mL/kg PBW),POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/lower_tidal_volumes__6_ml_kg_pbw_,20055989
+lowest_spo2_during_intubation,Lowest SpO2 during intubation,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/lowest_spo2_during_intubation,27730283
+lowest_saturation_during_intubation,Lowest saturation during intubation,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/lowest_saturation_during_intubation,25869405
+lung_ct_and_lung_ultrasound_examination,Lung CT and lung ultrasound examination,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/lung_ct_and_lung_ultrasound_examination,30048331
+lung_and_chest_wall_mechanics,Lung and chest wall mechanics,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/lung_and_chest_wall_mechanics,7633703
+lung_function,Lung function,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/lung_function,9603127
+lung_protective_mechanical_ventilation,Lung protective mechanical ventilation,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/lung_protective_mechanical_ventilation,22491953
+lung_recruitment_maneuver_with_titrated_peep,Lung recruitment maneuver with titrated PEEP,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/lung_recruitment_maneuver_with_titrated_,28973363
+lung_ultrasound,Lung ultrasound,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/lung_ultrasound,18403664
+lung_protective_ventilation,Lung-protective ventilation,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/lung_protective_ventilation,23902482
+lung_protective_ventilation_strategy,Lung-protective ventilation strategy,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/lung_protective_ventilation_strategy,10404912
+lymphopenia_on_admission,Lymphopenia on admission,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/lymphopenia_on_admission,32483488
+machine_learning_clinical_classifier_models,Machine learning clinical classifier models,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/machine_learning_clinical_classifier_mod,35026177
+major_pulmonary_and_extrapulmonary_complications_within_7_da,Major pulmonary and extrapulmonary complications within 7 days,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/major_pulmonary_and_extrapulmonary_compl,23902482
+measurement_of_extravascular_lung_water,Measurement of extravascular lung water,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/measurement_of_extravascular_lung_water,15774053
+mechanical_power,Mechanical power,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/ARDS_POI_03226,28985207
+mechanical_power_exceeding_17_j_min,Mechanical power exceeding 17 J/min,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/ARDS_POI_03280,28985207
+mechanical_ventilation_with_peep_adjusted_according_to_esoph,Mechanical ventilation with PEEP adjusted according to esophageal pressure measurements,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/mechanical_ventilation_with_peep_adjuste,19001507
+mechanical_ventilation_with_low_tidal_volumes,Mechanical ventilation with low tidal volumes,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/mechanical_ventilation_with_low_tidal_vo,26181219
+mesenteric_ischemia_in_ards,Mesenteric ischemia in ARDS,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/mesenteric_ischemia_in_ards,
+methylprednisolone,Methylprednisolone,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/methylprednisolone,16625008
+methylprednisolone_infusion,Methylprednisolone infusion,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/methylprednisolone_infusion,17426195
+mobility_protocol,Mobility protocol,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/mobility_protocol,18596631
+mortality,Mortality,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/mortality,10861320
+mortality__icu_and_hospital,Mortality (ICU and hospital),POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/mortality__icu_and_hospital_,21666446
+mortality_at_28_days,Mortality at 28 days,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/mortality_at_28_days,9449727
+mortality_at_60_days,Mortality at 60 days,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/mortality_at_60_days,29791822
+mortality_at_day_60,Mortality at Day 60,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/mortality_at_day_60,9847275
+mortality_during_first_60_days_before_discharge_home,Mortality during first 60 days before discharge home,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/mortality_during_first_60_days_before_di,16714768
+mortality_in_ards_nonresponders,Mortality in ARDS nonresponders,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/mortality_in_ards_nonresponders,16374152
+mortality_in_reintubated_patients,Mortality in reintubated patients,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/mortality_in_reintubated_patients,21376523
+mortality_prediction,Mortality prediction,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/mortality_prediction,27520452
+multiple_ards_management_strategies,Multiple ARDS management strategies,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/multiple_ards_management_strategies,33016981
+multiple_outcomes_including_mortality__ventilator_free_days,"Multiple outcomes including mortality, ventilator-free days, oxygenation, duration of mechanical ventilation",POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/multiple_outcomes_including_mortality__v,33016981
+n_acetylcysteine__nac,N-acetylcysteine (NAC),POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/n_acetylcysteine__nac_,9228372
+nimv_with_three_mask_types,NIMV with three mask types,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/nimv_with_three_mask_types,10890620
+nasal_bilevel_pressure_ventilation__bpv__plus_conventional_t,Nasal bilevel pressure ventilation (BPV) plus conventional therapy,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/nasal_bilevel_pressure_ventilation__bpv_,12684289
+nasal_high_flow__nhf__oxygen_therapy,Nasal high-flow (NHF) oxygen therapy,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/nasal_high_flow__nhf__oxygen_therapy,25003980
+nasal_pressure_support_ventilation_plus_oxygen,Nasal pressure support ventilation plus oxygen,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/nasal_pressure_support_ventilation_plus_,7633704
+need_for_endotracheal_intubation_and_mechanical_ventilation,Need for endotracheal intubation and mechanical ventilation,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/need_for_endotracheal_intubation_and_mec,10634340
+need_for_endotracheal_mechanical_ventilation,Need for endotracheal mechanical ventilation,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/need_for_endotracheal_mechanical_ventila,11673215
+need_for_intubation,Need for intubation,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/need_for_intubation,12958051
+need_for_intubation_and_mechanical_ventilation,Need for intubation and mechanical ventilation,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/need_for_intubation_and_mechanical_venti,20581167
+need_for_reintubation,Need for reintubation,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/need_for_reintubation,16276167
+need_for_tracheal_intubation_and_mechanical_ventilation,Need for tracheal intubation and mechanical ventilation,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/need_for_tracheal_intubation_and_mechani,9596317
+neurally_adjusted_ventilatory_assist__nava,Neurally adjusted ventilatory assist (NAVA),POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/neurally_adjusted_ventilatory_assist__na,18629471
+new_ventilatory_approach__na,New ventilatory approach (NA),POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/new_ventilatory_approach__na_,8520744
+nitric_oxide_inhalation,Nitric oxide inhalation,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/nitric_oxide_inhalation,8618485
+non_focal_ards,Non-focal ARDS,POI_disease,biolink:Disease,http://poi-kb.org/ards/ARDS_POI_03203,30342773
+non_invasive_positive_pressure_ventilation__nppv,Non-invasive positive pressure ventilation (NPPV),POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/non_invasive_positive_pressure_ventilati,12543832
+non_invasive_pressure_support_ventilation__nipsv,Non-invasive pressure support ventilation (NIPSV),POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/non_invasive_pressure_support_ventilatio,11191538
+non_invasive_ventilation,Non-invasive ventilation,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/non_invasive_ventilation,19183949
+non_invasive_ventilation__niv,Non-invasive ventilation (NIV),POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/non_invasive_ventilation__niv_,16426990
+non_invasive_ventilation_after_extubation,Non-invasive ventilation after extubation,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/non_invasive_ventilation_after_extubatio,19682735
+noninvasive_measurement_of_indocyanine_green_plasma_disappea,Noninvasive measurement of indocyanine green plasma disappearance rate,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/noninvasive_measurement_of_indocyanine_g,11126271
+noninvasive_mechanical_ventilation,Noninvasive mechanical ventilation,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/noninvasive_mechanical_ventilation,9187186
+noninvasive_mechanical_ventilatory_support__nimv,Noninvasive mechanical ventilatory support (NIMV),POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/noninvasive_mechanical_ventilatory_suppo,11373414
+noninvasive_positive_pressure_ventilation,Noninvasive positive pressure ventilation,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/noninvasive_positive_pressure_ventilatio,17133177
+noninvasive_positive_pressure_ventilation__nippv,Noninvasive positive pressure ventilation (NIPPV),POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/noninvasive_positive_pressure_ventilatio,15364765
+noninvasive_positive_pressure_ventilation__nppv,Noninvasive positive pressure ventilation (NPPV),POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/noninvasive_positive_pressure_ventilatio,9872200
+noninvasive_positive_pressure_ventilation,Noninvasive positive-pressure ventilation,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/noninvasive_positive_pressure_ventilatio,9700176
+noninvasive_positive_pressure_ventilation__nppv,Noninvasive positive-pressure ventilation (NPPV),POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/noninvasive_positive_pressure_ventilatio,11673215
+noninvasive_pressure_support_ventilation,Noninvasive pressure support ventilation,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/noninvasive_pressure_support_ventilation,9556465
+noninvasive_pressure_support_ventilation__nipsv,Noninvasive pressure support ventilation (NIPSV),POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/noninvasive_pressure_support_ventilation,7874950
+noninvasive_pressure_support_ventilation,Noninvasive pressure-support ventilation,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/noninvasive_pressure_support_ventilation,16081548
+noninvasive_ventilation,Noninvasive ventilation,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/noninvasive_ventilation,16799775
+noninvasive_ventilation__niv,Noninvasive ventilation (NIV),POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/noninvasive_ventilation__niv_,10634340
+noninvasive_ventilation__niv__success,Noninvasive ventilation (NIV) success,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/noninvasive_ventilation__niv__success,17019559
+noninvasive_ventilation_delivered_by_helmet,Noninvasive ventilation delivered by helmet,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/noninvasive_ventilation_delivered_by_hel,27179847
+noninvasive_ventilation__high_flow_nasal_cannula_oxygen__sta,"Noninvasive ventilation, high-flow nasal cannula oxygen, standard oxygen",POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/noninvasive_ventilation__high_flow_nasal,29099420
+not_specified_in_provided_abstract_text,Not specified in provided abstract text,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/not_specified_in_provided_abstract_text,38038395
+number_of_ventilator_free_days_at_28_days__days_alive_and_fr,Number of ventilator-free days at 28 days (days alive and free from mechanical ventilation from day of randomisation to day 28),POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/number_of_ventilator_free_days_at_28_day,32043986
+number_of_ventilator_free_days_from_randomization_until_day,Number of ventilator-free days from randomization until day 28,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/number_of_ventilator_free_days_from_rand,31613432
+one_lung_ventilation_surgical_context,One-lung ventilation surgical context,POI_context,biolink:InformationContentEntity,http://poi-kb.org/ards/kg/one_lung_ventilation_surgical_context,
+oxygen_consumption__vo2,Oxygen consumption (VO2),POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/oxygen_consumption__vo2_,7812538
+oxygenation_and_hemodynamics_with_hfov,Oxygenation and hemodynamics with HFOV,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/oxygenation_and_hemodynamics_with_hfov,11445688
+oxygenation_and_ventilation_parameters,Oxygenation and ventilation parameters,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/oxygenation_and_ventilation_parameters,14605529
+oxygenation_change_after_rm,Oxygenation change after RM,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/oxygenation_change_after_rm,11790648
+oxygenation_index__mortality__treatment_failure,"Oxygenation index, mortality, treatment failure",POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/oxygenation_index__mortality__treatment_,20483951
+oxygenation_parameters,Oxygenation parameters,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/oxygenation_parameters,8004312
+peep,PEEP,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/peep,7633703
+peep_and_fio2_titration,PEEP and FiO2 titration,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/peep_and_fio2_titration,17585106
+peep_titrated_with_esophageal_pressure__pes__guided_strategy,PEEP titrated with esophageal pressure (PES)-guided strategy,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/peep_titrated_with_esophageal_pressure__,30776290
+pao2_fio2,PaO2/FIO2,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/pao2_fio2,8630585
+pao2_fio2_ratio_at_24h_after_hfov,PaO2/FIO2 ratio at 24h after HFOV,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/pao2_fio2_ratio_at_24h_after_hfov,12897997
+pao2_fio2_ratio,PaO2/FiO2 ratio,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/pao2_fio2_ratio,14707568
+pao2_fio2_ratio_on_day_2,PaO2/FiO2 ratio on Day 2,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/pao2_fio2_ratio_on_day_2,27611637
+pao2_fio2set_ratio,PaO2/FiO2SET ratio,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/pao2_fio2set_ratio,25003980
+parsimonious_ards_subphenotype_classifier,Parsimonious ARDS subphenotype classifier,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/ARDS_POI_03281,32461733
+partial_liquid_ventilation__plv,Partial liquid ventilation (PLV),POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/partial_liquid_ventilation__plv_,8569018
+partial_liquid_ventilation__plv__with_perflubron,Partial liquid ventilation (PLV) with perflubron,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/partial_liquid_ventilation__plv__with_pe,11897644
+patient_directed_music__pdm,Patient-directed music (PDM),POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/patient_directed_music__pdm_,23689789
+patient_ventilator_asynchrony,Patient-ventilator asynchrony,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/patient_ventilator_asynchrony,22406958
+physical_functional_performance_at_1_month,Physical functional performance at 1 month,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/physical_functional_performance_at_1_mon,26651376
+physical_rehabilitation,Physical rehabilitation,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/physical_rehabilitation,25496103
+physiologic_response,Physiologic response,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/physiologic_response,18629471
+physiologic_shunt_and_static_pulmonary_compliance,Physiologic shunt and static pulmonary compliance,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/physiologic_shunt_and_static_pulmonary_c,8569018
+physiological_biomarkers__clinical_endpoints,"Physiological biomarkers, clinical endpoints",POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/physiological_biomarkers__clinical_endpo,28877748
+plasminogen_activator_inhibitor_1,Plasminogen activator inhibitor-1,POI_biomarker,biolink:Biomarker,http://poi-kb.org/ards/ARDS_POI_03209,
+positive_fluid_balance_at_72h_or_icu_discharge,Positive fluid balance at 72h or ICU discharge,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/positive_fluid_balance_at_72h_or_icu_dis,32353418
+postoperative_pulmonary_complications,Postoperative pulmonary complications,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/postoperative_pulmonary_complications,31157366
+presence_of_upper_inflection_point_on_p_v_curve,Presence of upper inflection point on P-V curve,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/presence_of_upper_inflection_point_on_p_,7599810
+pressure_support_ventilation,Pressure support ventilation,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/pressure_support_ventilation,8636518
+pressure__and_volume_limited_ventilation,Pressure- and volume-limited ventilation,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/pressure__and_volume_limited_ventilation,9449728
+prevalence_of_patient_ventilator_asynchrony,Prevalence of patient-ventilator asynchrony,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/prevalence_of_patient_ventilator_asynchr,19183949
+procalcitonin__pct__serum_level_measurement,Procalcitonin (PCT) serum level measurement,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/procalcitonin__pct__serum_level_measurem,10548201
+prolonged_low_to_moderate_dose_corticosteroids,Prolonged low-to-moderate dose corticosteroids,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/prolonged_low_to_moderate_dose_corticost,19325471
+prolonged_methylprednisolone_therapy,Prolonged methylprednisolone therapy,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/prolonged_methylprednisolone_therapy,9669790
+prone_position_placement,Prone position placement,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/prone_position_placement,15547166
+prone_positioning,Prone positioning,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/prone_positioning,23688302
+prone_positioning_during_ecmo,Prone positioning during ECMO,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/prone_positioning_during_ecmo,38038395
+prone_ventilation,Prone ventilation,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/prone_ventilation,16556697
+prophylactic_nasal_continuous_positive_airway_pressure__ncpa,Prophylactic nasal continuous positive airway pressure (nCPAP),POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/prophylactic_nasal_continuous_positive_a,19017864
+proportion_alive_with_unassisted_breathing_at_hospital_disch,Proportion alive with unassisted breathing at hospital discharge,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/proportion_alive_with_unassisted_breathi,10789668
+proportion_of_patients_achieving_ultra_protective_ventilatio,Proportion of patients achieving ultra-protective ventilation,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/proportion_of_patients_achieving_ultra_p,30790030
+proportion_of_patients_reintubated_at_day_7,Proportion of patients reintubated at day 7,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/proportion_of_patients_reintubated_at_da,31577036
+proportion_of_patients_requiring_endotracheal_intubation_wit,Proportion of patients requiring endotracheal intubation within 28 days after randomization,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/proportion_of_patients_requiring_endotra,25981908
+proportion_receiving_pt_in_icu_survivors,Proportion receiving PT in ICU survivors,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/proportion_receiving_pt_in_icu_survivors,18596631
+protective_mechanical_ventilation,Protective mechanical ventilation,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/protective_mechanical_ventilation,9449727
+protective_ventilation,Protective ventilation,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/protective_ventilation,26174419
+protein_c,Protein C,POI_biomarker,biolink:Biomarker,http://poi-kb.org/ards/ARDS_POI_03282,
+protocol_directed_sedation,Protocol-directed sedation,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/protocol_directed_sedation,10628598
+protocolized_sedation,Protocolized sedation,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/protocolized_sedation,25602358
+pulmonary_adverse_effects,Pulmonary adverse effects,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/pulmonary_adverse_effects,19017864
+pulmonary_and_systemic_cytokine_concentrations,Pulmonary and systemic cytokine concentrations,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/pulmonary_and_systemic_cytokine_concentr,10404912
+pulmonary_artery_catheter__pac,Pulmonary artery catheter (PAC),POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/pulmonary_artery_catheter__pac_,16204666
+pulmonary_complications,Pulmonary complications,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/pulmonary_complications,17167013
+pulmonary_gas_exchange,Pulmonary gas exchange,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/pulmonary_gas_exchange,8618485
+pulmonary_neutrophil_recruitment,Pulmonary neutrophil recruitment,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/pulmonary_neutrophil_recruitment,10470743
+pulmonary_artery_catheter__pac__for_hemodynamic_management,Pulmonary-artery catheter (PAC) for hemodynamic management,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/pulmonary_artery_catheter__pac__for_hemo,16714768
+resp_score_to_predict_ecmo_survival,RESP score to predict ECMO survival,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/resp_score_to_predict_ecmo_survival,24693864
+ranked_composite_score_of_death_and_days_free_from_mechanica,Ranked composite score of death and days free from mechanical ventilation among survivors through day 28,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/ranked_composite_score_of_death_and_days,30776290
+rate_of_endotracheal_intubation,Rate of endotracheal intubation,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/rate_of_endotracheal_intubation,27179847
+recombinant_human_angiotensin_converting_enzyme_2__rhace2__g,"Recombinant human angiotensin-converting enzyme 2 (rhACE2, GSK2586881)",POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/recombinant_human_angiotensin_converting,28877748
+recombinant_human_soluble_thrombomodulin,Recombinant human soluble thrombomodulin,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/recombinant_human_soluble_thrombomodulin,31104069
+recombinant_surfactant_protein_c_based_surfactant,Recombinant surfactant protein C-based surfactant,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/recombinant_surfactant_protein_c_based_s,15329426
+recruitment_maneuvers,Recruitment maneuvers,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/recruitment_maneuvers,14605529
+rehabilitation_protocols,Rehabilitation protocols,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/rehabilitation_protocols,27762595
+reintubation_rate,Reintubation rate,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/reintubation_rate,12076220
+reintubation_within_72_hours,Reintubation within 72 hours,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/reintubation_within_72_hours,27706464
+rescue_vv_ecmo,Rescue VV-ECMO,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/ARDS_POI_03217,
+respiratory_changes_in_ivc_diameter,Respiratory changes in IVC diameter,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/respiratory_changes_in_ivc_diameter,15034650
+respiratory_muscle_aid_protocol,Respiratory muscle aid protocol,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/respiratory_muscle_aid_protocol,11083691
+respiratory_parameters_and_arterial_blood_gases,Respiratory parameters and arterial blood gases,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/respiratory_parameters_and_arterial_bloo,21958974
+respiratory_pattern_and_diaphragmatic_effort,Respiratory pattern and diaphragmatic effort,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/respiratory_pattern_and_diaphragmatic_ef,8636518
+respiratory_physiotherapy,Respiratory physiotherapy,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/respiratory_physiotherapy,17167013
+respiratory_system_compliance__crs___arterial_oxygen_tension,"Respiratory system compliance (CRS), arterial oxygen tension (PaO2), cardiac index (CI), oxygen delivery (DO2), venous admixture (QVA/QT)",POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/respiratory_system_compliance__crs___art,11435237
+respiratory_therapist_driven_protocol__tdp,Respiratory therapist-driven protocol (TDP),POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/respiratory_therapist_driven_protocol__t,9927355
+restrictive_oxygen_target__pao2_9_10_kpa,Restrictive oxygen target (Pao2 9-10 kPa),POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/restrictive_oxygen_target__pao2_9_10_kpa,36027567
+restrictive_red_blood_cell_transfusion_strategy,Restrictive red blood cell transfusion strategy,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/restrictive_red_blood_cell_transfusion_s,20940381
+resuscitation_guided_by_fluid_responsiveness_assessment,Resuscitation guided by fluid responsiveness assessment,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/resuscitation_guided_by_fluid_responsive,32353418
+right_ventricular_dysfunction_ards_population,Right ventricular dysfunction ARDS population,POI_population,biolink:PopulationOfIndividualOrganisms,http://poi-kb.org/ards/ARDS_POI_03230,20558628
+rosuvastatin,Rosuvastatin,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/rosuvastatin,24835849
+sarilumab,Sarilumab,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/sarilumab,33676590
+scheduled_extubation,Scheduled extubation,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/scheduled_extubation,21376523
+sedation_depth,Sedation depth,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/sedation_depth,10470756
+sepsis_molecular_phenotypes,Sepsis molecular phenotypes,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/sepsis_molecular_phenotypes,37633303
+sepsis_molecular_phenotyping,Sepsis molecular phenotyping,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/sepsis_molecular_phenotyping,37633303
+serial_blood_lactate_measurements,Serial blood lactate measurements,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/serial_blood_lactate_measurements,27520452
+serious_adverse_events_after_major_surgery,Serious adverse events after major surgery,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/serious_adverse_events_after_major_surge,15071378
+serum_il_6_level_change_from_baseline,Serum IL-6 level change from baseline,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/serum_il_6_level_change_from_baseline,20562702
+serum_bicarbonate,Serum bicarbonate,POI_biomarker,biolink:Biomarker,http://poi-kb.org/ards/ARDS_POI_03283,
+severe_ards_context_pao2_fio2__150,Severe ARDS context PaO2/FiO2 <150,POI_disease,biolink:Disease,http://poi-kb.org/ards/kg/severe_ards_context_pao2_fio2__150,
+severe_ards_context_pao2_fio2_less_than_150,Severe ARDS context PaO2/FiO2 less than 150,POI_context,biolink:InformationContentEntity,http://poi-kb.org/ards/ARDS_POI_03233,
+severe_covid_19,Severe COVID-19,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/severe_covid_19,32483488
+severe_ards_duration_over_72h,Severe ards duration over 72h,POI_context,biolink:InformationContentEntity,http://poi-kb.org/ards/ARDS_POI_03121,
+simvastatin,Simvastatin,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/simvastatin,25268516
+sivelestat__ono_5046__elaspol,"Sivelestat (ONO-5046, Elaspol)",POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/sivelestat__ono_5046__elaspol_,15286546
+soluble_receptor_for_advanced_glycation_end_products,Soluble receptor for advanced glycation end-products,POI_biomarker,biolink:Biomarker,http://poi-kb.org/ards/kg/soluble_receptor_for_advanced_glycation_,
+soluble_tumour_necrosis_factor_receptor_1,Soluble tumour necrosis factor receptor 1,POI_biomarker,biolink:Biomarker,http://poi-kb.org/ards/ARDS_POI_03271,
+spontaneous_breathing_trial,Spontaneous breathing trial,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/spontaneous_breathing_trial,12411288
+staff_time_and_cost,Staff time and cost,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/staff_time_and_cost,9187186
+standardized_rehabilitation_therapy__srt,Standardized rehabilitation therapy (SRT),POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/standardized_rehabilitation_therapy__srt,27367766
+successful_niv,Successful NIV,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/successful_niv,23103736
+successful_extubation,Successful extubation,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/successful_extubation,10767247
+successful_extubation_and_remaining_extubated_for_48_hours,Successful extubation and remaining extubated for 48 hours,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/successful_extubation_and_remaining_extu,9927366
+successful_extubation_and_tracheostomy_decannulation,Successful extubation and tracheostomy decannulation,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/successful_extubation_and_tracheostomy_d,8989078
+successful_extubation_at_48_hours,Successful extubation at 48 hours,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/successful_extubation_at_48_hours,9279224
+successful_weaning_and_extubation,Successful weaning and extubation,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/successful_weaning_and_extubation,10390384
+successful_weaning_at_60_days,Successful weaning at 60 days,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/successful_weaning_at_60_days,9556465
+suctioning_techniques_with_recruitment_maneuvers,Suctioning techniques with recruitment maneuvers,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/suctioning_techniques_with_recruitment_m,12615633
+superior_vena_caval_collapsibility_measurement,Superior vena caval collapsibility measurement,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/superior_vena_caval_collapsibility_measu,15375649
+supplemental_oxygen,Supplemental oxygen,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/supplemental_oxygen,15539726
+surgical_site_infection_within_14_days,Surgical site infection within 14 days,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/surgical_site_infection_within_14_days,19826023
+survival,Survival,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/survival,11529210
+survival_and_probability_of_pursuing_nppv,Survival and probability of pursuing NPPV,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/survival_and_probability_of_pursuing_npp,12527605
+survival_at_28_days,Survival at 28 days,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/survival_at_28_days,15329426
+survival_at_90_days_after_ecmo,Survival at 90 days after ECMO,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/survival_at_90_days_after_ecmo,33887246
+survival_rate_in_122_ards_patients,Survival rate in 122 ARDS patients,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/survival_rate_in_122_ards_patients,9310799
+survival_to_hospital_discharge,Survival to hospital discharge,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/survival_to_hospital_discharge,9315812
+survival_without_supplemental_oxygen_or_on_ventilator_at_30,Survival without supplemental oxygen or on ventilator at 30 days,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/survival_without_supplemental_oxygen_or_,16137357
+survival__nppv_adherence,"Survival, NPPV adherence",POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/survival__nppv_adherence,20348200
+susceptibility_and_outcome_of_ards,Susceptibility and outcome of ARDS,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/susceptibility_and_outcome_of_ards,12204859
+t_tube_spontaneous_breathing_trial,T-tube spontaneous breathing trial,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/t_tube_spontaneous_breathing_trial,9279224
+tak_242,TAK-242,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/tak_242,20562702
+tidal_volume_of_breathe_stacked_breaths,Tidal volume of BREATHE stacked breaths,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/tidal_volume_of_breathe_stacked_breaths,27342819
+tidal_volume_reduction,Tidal volume reduction,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/tidal_volume_reduction,9847275
+time_to_2_point_clinical_improvement_on_7_point_scale,Time to 2-point clinical improvement on 7-point scale,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/time_to_2_point_clinical_improvement_on_,33676590
+time_to_death,Time to death,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/time_to_death,33080002
+titration_of_tidal_volume_and_induced_hypercapnia,Titration of tidal volume and induced hypercapnia,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/titration_of_tidal_volume_and_induced_hy,7599810
+tocilizumab,Tocilizumab,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/tocilizumab,33080005
+tocilizumab__tcz,Tocilizumab (TCZ),POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/tocilizumab__tcz_,33080017
+tocilizumab_in_first_2_days_of_icu_admission,Tocilizumab in first 2 days of ICU admission,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/tocilizumab_in_first_2_days_of_icu_admis,33080002
+tofacitinib,Tofacitinib,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/tofacitinib,34133856
+tracheostomy,Tracheostomy,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/tracheostomy,9927347
+treatment_failure,Treatment failure,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/treatment_failure,25688779
+treatment_failure__intubation_or_death_within_28_days,Treatment failure (intubation or death within 28 days),POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/treatment_failure__intubation_or_death_w,34425070
+treatment_failure_on_day_21,Treatment failure on day 21,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/treatment_failure_on_day_21,32876689
+treatment_protocol,Treatment protocol,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/treatment_protocol,10861320
+trophic_enteral_feeding,Trophic enteral feeding,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/trophic_enteral_feeding,22307571
+trophic_vs_full_enteral_feeding_in_first_6_days_of_mechanica,Trophic vs full enteral feeding in first 6 days of mechanical ventilation,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/trophic_vs_full_enteral_feeding_in_first,23805899
+twitch_transdiaphragmatic_pressure,Twitch transdiaphragmatic pressure,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/twitch_transdiaphragmatic_pressure,12411288
+two_year_survival_after_onset_of_acute_lung_injury,Two year survival after onset of acute lung injury,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/two_year_survival_after_onset_of_acute_l,22491953
+ultra_protective_ventilation_during_vv_ecmo,Ultra-protective ventilation during VV-ECMO,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/ARDS_POI_03216,
+upper_airway_obstruction,Upper airway obstruction,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/upper_airway_obstruction,19399474
+use_of_noninvasive_ventilation_as_first_line_ventilation_mod,Use of noninvasive ventilation as first-line ventilation modality,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/use_of_noninvasive_ventilation_as_first_,16799775
+vv_ecmo,VV-ECMO,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/vv_ecmo,29791822
+validation_of_machine_learning_models_for_ards_subphenotype,Validation of machine learning models for ARDS subphenotype assignment,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/validation_of_machine_learning_models_fo,35026177
+venovenous_ecmo,Venovenous ECMO,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/venovenous_ecmo,33021684
+venovenous_extracorporeal_membrane_oxygenation,Venovenous extracorporeal membrane oxygenation,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/venovenous_extracorporeal_membrane_oxyge,30642776
+ventilation_perfusion_relationships__va_q,Ventilation-perfusion relationships (VA/Q),POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/ventilation_perfusion_relationships__va_,7956412
+ventilator_liberation_outcomes,Ventilator liberation outcomes,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/ventilator_liberation_outcomes,27818331
+ventilator_management_protocol__vmp__by_respiratory_care_pra,Ventilator management protocol (VMP) by respiratory care practitioners and nurses,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/ventilator_management_protocol__vmp__by_,10936141
+ventilator__and_vasopressor_free_days_in_first_30_days,Ventilator- and vasopressor-free days in first 30 days,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/ventilator__and_vasopressor_free_days_in,33620405
+ventilator_associated_pneumonia_rate,Ventilator-associated pneumonia rate,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/ventilator_associated_pneumonia_rate,12441746
+ventilator_free_days,Ventilator-free days,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/ventilator_free_days,21562125
+ventilator_free_days_at_28_days,Ventilator-free days at 28 days,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/ventilator_free_days_at_28_days,11897644
+ventilator_free_days_at_60_days,Ventilator-free days at 60 days,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/ventilator_free_days_at_60_days,23306584
+ventilator_free_days_at_day_28,Ventilator-free days at day 28,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/ventilator_free_days_at_day_28,30357256
+ventilator_free_days_during_first_28_days,Ventilator-free days during first 28 days,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/ventilator_free_days_during_first_28_day,32876695
+ventilator_free_days_to_day_28,Ventilator-free days to day 28,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/ventilator_free_days_to_day_28,25268516
+ventilator_free_days_to_study_day_28,Ventilator-free days to study day 28,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/ventilator_free_days_to_study_day_28,22307571
+ventilatory_ratio,Ventilatory ratio,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/ventilatory_ratio,30211618
+vitamin_c__thiamine__and_hydrocortisone,"Vitamin C, thiamine, and hydrocortisone",POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/vitamin_c__thiamine__and_hydrocortisone,33620405
+who_cps__5_at_day_4,WHO-CPS >5 at day 4,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/who_cps__5_at_day_4,33080017
+weaning_duration_until_successful_extubation,Weaning duration until successful extubation,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/weaning_duration_until_successful_extuba,16840741
+weaning_outcome,Weaning outcome,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/weaning_outcome,21385346
+weaning_rate,Weaning rate,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/weaning_rate,9927355
+weaning_success_rate,Weaning success rate,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/weaning_success_rate,9404759
+work_of_breathing,Work of breathing,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/work_of_breathing,9927347
+worse_clinical_status_on_who_cps_at_day_28,Worse clinical status on WHO-CPS at day 28,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/worse_clinical_status_on_who_cps_at_day_,34480127
+accuracy_and_usefulness_of_diaphragm_ultrasonography_in_icu,accuracy and usefulness of diaphragm ultrasonography in ICU patients,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/accuracy_and_usefulness_of_diaphragm_ult,27620292
+corticosteroid_use,corticosteroid use,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/corticosteroid_use,22895826
+corticosteroids,corticosteroids,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/corticosteroids,18434379
+days_of_mechanical_ventilation__weaning__and_icu_los,"days of mechanical ventilation, weaning, and ICU LOS",POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/days_of_mechanical_ventilation__weaning_,16100131
+development_of_ards__mortality_in_ards,"development of ARDS, mortality in ARDS",POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/development_of_ards__mortality_in_ards,18434379
+dexamethasone_treatment_for_hospitalized_covid_19,dexamethasone treatment for hospitalized COVID-19,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/ARDS_POI_01006,
+diaphragm_ultrasonography,diaphragm ultrasonography,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/diaphragm_ultrasonography,27620292
+high_flow_nasal_cannula_oxygen__hfnc,high-flow nasal cannula oxygen (HFNC),POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/high_flow_nasal_cannula_oxygen__hfnc_,21958974
+improved_gas_exchange__avoidance_of_intubation,"improved gas exchange, avoidance of intubation",POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/improved_gas_exchange__avoidance_of_intu,8147550
+incentive_spirometry,incentive spirometry,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/incentive_spirometry,11555536
+inhaled_nitric_oxide,inhaled nitric oxide,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/inhaled_nitric_oxide,8630585
+invasive_pulmonary_aspergillosis,invasive pulmonary aspergillosis,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/invasive_pulmonary_aspergillosis,22895826
+mortality__arterial_thromboembolism__acute_respiratory_distr,"mortality, arterial thromboembolism, acute respiratory distress syndrome",POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/mortality__arterial_thromboembolism__acu,21502651
+neuromuscular_blocking_agents__nmbas,neuromuscular blocking agents (NMBAs),POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/neuromuscular_blocking_agents__nmbas_,16932229
+noninvasive_positive_pressure_ventilation,noninvasive positive pressure ventilation,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/noninvasive_positive_pressure_ventilatio,8147550
+patient_ventilator_synchronization,patient-ventilator synchronization,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/patient_ventilator_synchronization,10470568
+postoperative_pulmonary_complications,postoperative pulmonary complications,POI_outcome,biolink:ClinicalFinding,http://poi-kb.org/ards/kg/postoperative_pulmonary_complications,11555536
+prone_positioning,prone positioning,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/ARDS_POI_01121,19903918
+prone_positioning_during_pressure_controlled_mechanical_vent,prone positioning during pressure-controlled mechanical ventilation,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/prone_positioning_during_pressure_contro,7956412
+recombinant_factor_viia__rfviia,recombinant factor VIIa (rFVIIa),POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/recombinant_factor_viia__rfviia_,21502651
+time_cycled_inspiratory_pressure_support_ventilation__nipsvt,time-cycled inspiratory pressure support ventilation (NIPSVtc),POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/time_cycled_inspiratory_pressure_support,10470568
+use_of_sedatives,use of sedatives,POI_intervention,biolink:Treatment,http://poi-kb.org/ards/kg/use_of_sedatives,16100131

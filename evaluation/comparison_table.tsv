@@ -1,0 +1,7 @@
+system	n_all	n_judge	n_d3	output_rate	composite	f1	d1	d2	d3_gold	d4	d5	d6	d7	kappa_d1	eval_strategy
+haiku	416	416	15	0.9736	0.4667	0.3305	0.5577	0.1034	0.8	0.4844	0.6971	0.3895	0.6827	0.0	D1/D2/D5/D7=judge(N=all); D3=prog(N=gold); D4/D6=prog(N=all)
+gpt4_zs	416	416	15	1.0	0.4437	0.3822	0.6154	0.149	0.6667	0.0517	0.6538	0.5072	0.6274	0.5946	D1/D2/D5/D7=judge(N=all); D3=prog(N=gold); D4/D6=prog(N=all)
+ontogpt	416	416	15	1.0	0.548	0.5	0.738	0.262	0.7333	0.1743	0.8293	0.4904	0.7764	0.4231	D1/D2/D5/D7=judge(N=all); D3=prog(N=gold); D4/D6=prog(N=all)
+rebel	416	416	15	1.0	0.1873	0.1923	0.3582	0.0264	0.4667	0.0192	0.4087	0.0	0.3029	0.7059	D1/D2/D5/D7=judge(N=all); D3=prog(N=gold); D4/D6=prog(N=all)
+gpt54_zs	416	416	15	1.0	0.4695	0.488	0.7284	0.2476	0.6667	0.0889	0.7452	0.238	0.7356	0.7619	D1/D2/D5/D7=judge(N=all); D3=prog(N=gold); D4/D6=prog(N=all)
+ontogpt_gpt54	416	416	15	1.0	0.5376	0.5024	0.6923	0.3125	0.7333	0.2236	0.75	0.5072	0.7115	0.5946	D1/D2/D5/D7=judge(N=all); D3=prog(N=gold); D4/D6=prog(N=all)

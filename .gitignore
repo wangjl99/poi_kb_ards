@@ -1,0 +1,10 @@
+.env
+*.env
+__pycache__/
+*.py[cod]
+.DS_Store
+master_curated.jsonl
+*.log
+*.bak
+venv/
+.venv/
